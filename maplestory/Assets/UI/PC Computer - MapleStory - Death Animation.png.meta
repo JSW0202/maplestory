@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: 18469a963f3dd434c8f9e972c7dd8bb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 576431467447419122
+    second: PC Computer - MapleStory - Death Animation_0
+  - first:
+      213: 7730774455933211124
+    second: PC Computer - MapleStory - Death Animation_1
+  - first:
+      213: -527030672566457403
+    second: PC Computer - MapleStory - Death Animation_2
+  - first:
+      213: -56540710879867106
+    second: PC Computer - MapleStory - Death Animation_3
+  - first:
+      213: -2171805516731789576
+    second: PC Computer - MapleStory - Death Animation_4
+  - first:
+      213: 2319195858184894832
+    second: PC Computer - MapleStory - Death Animation_5
+  - first:
+      213: 3313480355221994070
+    second: PC Computer - MapleStory - Death Animation_6
+  - first:
+      213: 2379168143996357673
+    second: PC Computer - MapleStory - Death Animation_7
+  - first:
+      213: 1626615049683890447
+    second: PC Computer - MapleStory - Death Animation_8
+  - first:
+      213: -9101653098940541124
+    second: PC Computer - MapleStory - Death Animation_9
+  - first:
+      213: 5026236597331841846
+    second: PC Computer - MapleStory - Death Animation_10
+  - first:
+      213: 3588033136795052248
+    second: PC Computer - MapleStory - Death Animation_11
+  - first:
+      213: 315150475094408907
+    second: PC Computer - MapleStory - Death Animation_12
+  - first:
+      213: 6502097131300202152
+    second: PC Computer - MapleStory - Death Animation_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 40
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: -0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f08f869d55eff700800000000000000
+      internalID: 576431467447419122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 106
+        width: 42
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: -0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f11094886a394b60800000000000000
+      internalID: 7730774455933211124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 106
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: -0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbe0f7456c9fa8f0800000000000000
+      internalID: -527030672566457403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 106
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: -0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f48a4e580273ff0800000000000000
+      internalID: -56540710879867106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 106
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: -0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fec7f5a3623cd1e0800000000000000
+      internalID: -2171805516731789576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 106
+        width: 42
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: -0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079faab68507f2020800000000000000
+      internalID: 2319195858184894832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 106
+        width: 40
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: -0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65afd37d3d8dbfd20800000000000000
+      internalID: 3313480355221994070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 106
+        width: 42
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: -0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c04d352d0840120800000000000000
+      internalID: 2379168143996357673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 106
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: -0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0176bef4c5e29610800000000000000
+      internalID: 1626615049683890447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 106
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: -0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37d0d8aabe60b180800000000000000
+      internalID: -9101653098940541124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 106
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: -0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633580d1e87c0c540800000000000000
+      internalID: 5026236597331841846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 106
+        width: 42
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: -0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8eff0b0214bc130800000000000000
+      internalID: 3588033136795052248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 49
+        width: 85
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce3cc6ffa3af5400800000000000000
+      internalID: 315150475094408907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 42
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: -0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a62c3e24e61c3a50800000000000000
+      internalID: 6502097131300202152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 49
+        width: 85
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578d6b6f4bf92421abb6e36e790a1b89
+      internalID: -204190744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 49
+        width: 89
+        height: 54
+      alignment: 9
+      pivot: {x: 0.51, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f290d5386c0a14d1e8c173352643945b
+      internalID: -1639678783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_16
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 49
+        width: 94
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4835, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dac66f6b8fb477e931a7a17a6a85bb
+      internalID: 896873366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_17
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 49
+        width: 87
+        height: 54
+      alignment: 9
+      pivot: {x: 0.49, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d36943010634b8488ede3bdf7413b9
+      internalID: 1763460939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Death Animation_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 49
+        width: 80
+        height: 54
+      alignment: 9
+      pivot: {x: 0.485, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06faa061982594ef5a933742ba90c08f
+      internalID: -272886245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b037e934cf5bc40ef9e9965c3faf8577
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - MapleStory - Death Animation_0: 576431467447419122
+      PC Computer - MapleStory - Death Animation_1: 7730774455933211124
+      PC Computer - MapleStory - Death Animation_10: 5026236597331841846
+      PC Computer - MapleStory - Death Animation_11: 3588033136795052248
+      PC Computer - MapleStory - Death Animation_12: 315150475094408907
+      PC Computer - MapleStory - Death Animation_13: 6502097131300202152
+      PC Computer - MapleStory - Death Animation_14: -204190744
+      PC Computer - MapleStory - Death Animation_15: -1639678783
+      PC Computer - MapleStory - Death Animation_16: 896873366
+      PC Computer - MapleStory - Death Animation_17: 1763460939
+      PC Computer - MapleStory - Death Animation_18: -272886245
+      PC Computer - MapleStory - Death Animation_2: -527030672566457403
+      PC Computer - MapleStory - Death Animation_3: -56540710879867106
+      PC Computer - MapleStory - Death Animation_4: -2171805516731789576
+      PC Computer - MapleStory - Death Animation_5: 2319195858184894832
+      PC Computer - MapleStory - Death Animation_6: 3313480355221994070
+      PC Computer - MapleStory - Death Animation_7: 2379168143996357673
+      PC Computer - MapleStory - Death Animation_8: 1626615049683890447
+      PC Computer - MapleStory - Death Animation_9: -9101653098940541124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

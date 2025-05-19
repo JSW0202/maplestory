@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &839179827211444165
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1030274967181580248}
+  - component: {fileID: 2178911249607481993}
+  m_Layer: 0
+  m_Name: DamageText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1030274967181580248
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 839179827211444165}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.2565953, y: -6.4564877, z: 0.0038832906}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2178911249607481993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 839179827211444165}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ad00678eaff14455b63577f7943b71f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  digitSprites:
+  - {fileID: 5088316998373936774, guid: c7a7b2655ed574101a129533067cf289, type: 3}
+  - {fileID: -855298285791758126, guid: 71b13484eab43432386a266876eddf53, type: 3}
+  - {fileID: 6937817954938267909, guid: 4a8897268e78147398fee2770282bdec, type: 3}
+  - {fileID: -6470460504253458178, guid: e8d9e711afc7e4d88a0a1cbf42ba3c65, type: 3}
+  - {fileID: -4178046375966092550, guid: a9884a2739622412b85746ab3f366594, type: 3}
+  - {fileID: 4130640169021434097, guid: fe367ac2ea2ca4325b66bcabb7c3d19f, type: 3}
+  - {fileID: 3465286685962602723, guid: 028aabb9c97f247a89288b7e0b41eae7, type: 3}
+  - {fileID: 7028616704906629411, guid: 6a0a9af64cafb462da2007a305f245d3, type: 3}
+  - {fileID: 8288426215254106694, guid: c97a78c857f5b4229ba1df7818b085e8, type: 3}
+  - {fileID: 4113829005332862926, guid: be1d0a583fe70496eb63304206bd844f, type: 3}
+  digitPrefab: {fileID: 6743627761787592901, guid: 817c5c55010d0470a9f1b4b627273a7b, type: 3}
+  digitSpacing: 0.33
+  lifetime: 1
+  floatSpeed: 1

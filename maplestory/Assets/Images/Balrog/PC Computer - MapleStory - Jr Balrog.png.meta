@@ -1,0 +1,2314 @@
+fileFormatVersion: 2
+guid: 179d02209d5e91a4585926599d756421
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6595408887112478775
+    second: PC Computer - MapleStory - Jr Balrog_0
+  - first:
+      213: 7106477895421671148
+    second: PC Computer - MapleStory - Jr Balrog_1
+  - first:
+      213: 8619482744407132344
+    second: PC Computer - MapleStory - Jr Balrog_2
+  - first:
+      213: -3924352393960910784
+    second: PC Computer - MapleStory - Jr Balrog_3
+  - first:
+      213: -8211942908887978958
+    second: PC Computer - MapleStory - Jr Balrog_4
+  - first:
+      213: -2220132933501099888
+    second: PC Computer - MapleStory - Jr Balrog_5
+  - first:
+      213: 5172966813143575490
+    second: PC Computer - MapleStory - Jr Balrog_6
+  - first:
+      213: 6094929704571989690
+    second: PC Computer - MapleStory - Jr Balrog_7
+  - first:
+      213: 7066030124220914925
+    second: PC Computer - MapleStory - Jr Balrog_8
+  - first:
+      213: -2870853508318991687
+    second: PC Computer - MapleStory - Jr Balrog_9
+  - first:
+      213: -357919896329800663
+    second: PC Computer - MapleStory - Jr Balrog_10
+  - first:
+      213: 9140893665440668854
+    second: PC Computer - MapleStory - Jr Balrog_11
+  - first:
+      213: -2326484756155088521
+    second: PC Computer - MapleStory - Jr Balrog_12
+  - first:
+      213: -7652183749927464706
+    second: PC Computer - MapleStory - Jr Balrog_13
+  - first:
+      213: -33666232839761818
+    second: PC Computer - MapleStory - Jr Balrog_14
+  - first:
+      213: 1396140722416876719
+    second: PC Computer - MapleStory - Jr Balrog_15
+  - first:
+      213: 8207018050275770376
+    second: PC Computer - MapleStory - Jr Balrog_16
+  - first:
+      213: -1195782941358017867
+    second: PC Computer - MapleStory - Jr Balrog_17
+  - first:
+      213: 6043289465580932004
+    second: PC Computer - MapleStory - Jr Balrog_18
+  - first:
+      213: -5452065632091066057
+    second: PC Computer - MapleStory - Jr Balrog_19
+  - first:
+      213: -3440529113652221523
+    second: PC Computer - MapleStory - Jr Balrog_20
+  - first:
+      213: 5558524779228386021
+    second: PC Computer - MapleStory - Jr Balrog_21
+  - first:
+      213: 2812161084545791492
+    second: PC Computer - MapleStory - Jr Balrog_22
+  - first:
+      213: 2189722952090403907
+    second: PC Computer - MapleStory - Jr Balrog_23
+  - first:
+      213: 7102882122331649369
+    second: PC Computer - MapleStory - Jr Balrog_24
+  - first:
+      213: -8061822040731101341
+    second: PC Computer - MapleStory - Jr Balrog_25
+  - first:
+      213: -5138826700975762539
+    second: PC Computer - MapleStory - Jr Balrog_26
+  - first:
+      213: -5241147752887234216
+    second: PC Computer - MapleStory - Jr Balrog_27
+  - first:
+      213: 8088445194527966630
+    second: PC Computer - MapleStory - Jr Balrog_28
+  - first:
+      213: -3101686340667378787
+    second: PC Computer - MapleStory - Jr Balrog_29
+  - first:
+      213: -1830172435741129001
+    second: PC Computer - MapleStory - Jr Balrog_30
+  - first:
+      213: -7693681773541966845
+    second: PC Computer - MapleStory - Jr Balrog_31
+  - first:
+      213: 7100868111302746454
+    second: PC Computer - MapleStory - Jr Balrog_32
+  - first:
+      213: 4195163303729962758
+    second: PC Computer - MapleStory - Jr Balrog_33
+  - first:
+      213: 1378419586381772454
+    second: PC Computer - MapleStory - Jr Balrog_34
+  - first:
+      213: -7175731696137192530
+    second: PC Computer - MapleStory - Jr Balrog_35
+  - first:
+      213: -3095531867610725396
+    second: PC Computer - MapleStory - Jr Balrog_36
+  - first:
+      213: 2600190564160204030
+    second: PC Computer - MapleStory - Jr Balrog_37
+  - first:
+      213: -2842893066352853717
+    second: PC Computer - MapleStory - Jr Balrog_38
+  - first:
+      213: -6786414497941345660
+    second: PC Computer - MapleStory - Jr Balrog_39
+  - first:
+      213: -2991697938799897618
+    second: PC Computer - MapleStory - Jr Balrog_40
+  - first:
+      213: 8551007870408067136
+    second: PC Computer - MapleStory - Jr Balrog_41
+  - first:
+      213: -4249446534109568607
+    second: PC Computer - MapleStory - Jr Balrog_42
+  - first:
+      213: 2566631299850886807
+    second: PC Computer - MapleStory - Jr Balrog_43
+  - first:
+      213: 160965987162937829
+    second: PC Computer - MapleStory - Jr Balrog_44
+  - first:
+      213: -226841170962566661
+    second: PC Computer - MapleStory - Jr Balrog_45
+  - first:
+      213: 4533879215779791105
+    second: PC Computer - MapleStory - Jr Balrog_46
+  - first:
+      213: -5104794994253041221
+    second: PC Computer - MapleStory - Jr Balrog_47
+  - first:
+      213: 5995469919126840415
+    second: PC Computer - MapleStory - Jr Balrog_48
+  - first:
+      213: -2722433900060923684
+    second: PC Computer - MapleStory - Jr Balrog_49
+  - first:
+      213: -7198171048841469532
+    second: PC Computer - MapleStory - Jr Balrog_50
+  - first:
+      213: 5686077965851215348
+    second: PC Computer - MapleStory - Jr Balrog_51
+  - first:
+      213: 5409347511722874240
+    second: PC Computer - MapleStory - Jr Balrog_52
+  - first:
+      213: 8014813347105035957
+    second: PC Computer - MapleStory - Jr Balrog_53
+  - first:
+      213: 1399686238084247089
+    second: PC Computer - MapleStory - Jr Balrog_54
+  - first:
+      213: -3363148955583182519
+    second: PC Computer - MapleStory - Jr Balrog_55
+  - first:
+      213: -7940110989451453530
+    second: PC Computer - MapleStory - Jr Balrog_56
+  - first:
+      213: 7326814949214361714
+    second: PC Computer - MapleStory - Jr Balrog_57
+  - first:
+      213: -359407276254767019
+    second: PC Computer - MapleStory - Jr Balrog_58
+  - first:
+      213: -7592857580829587400
+    second: PC Computer - MapleStory - Jr Balrog_59
+  - first:
+      213: -7693955041837416910
+    second: PC Computer - MapleStory - Jr Balrog_60
+  - first:
+      213: 2582506557705313952
+    second: PC Computer - MapleStory - Jr Balrog_61
+  - first:
+      213: -7363138742806512131
+    second: PC Computer - MapleStory - Jr Balrog_62
+  - first:
+      213: -4364673070854121566
+    second: PC Computer - MapleStory - Jr Balrog_63
+  - first:
+      213: -108308975571354356
+    second: PC Computer - MapleStory - Jr Balrog_64
+  - first:
+      213: 6962207187778152056
+    second: PC Computer - MapleStory - Jr Balrog_65
+  - first:
+      213: -6504751689457373932
+    second: PC Computer - MapleStory - Jr Balrog_66
+  - first:
+      213: 3487170740978438690
+    second: PC Computer - MapleStory - Jr Balrog_67
+  - first:
+      213: 4893476010509598892
+    second: PC Computer - MapleStory - Jr Balrog_68
+  - first:
+      213: 1077616084890448271
+    second: PC Computer - MapleStory - Jr Balrog_69
+  - first:
+      213: 1065519881322923483
+    second: PC Computer - MapleStory - Jr Balrog_70
+  - first:
+      213: -9139497894720772064
+    second: PC Computer - MapleStory - Jr Balrog_71
+  - first:
+      213: -7433472555656947551
+    second: PC Computer - MapleStory - Jr Balrog_72
+  - first:
+      213: -3811361681947479117
+    second: PC Computer - MapleStory - Jr Balrog_73
+  - first:
+      213: 9181540527864898294
+    second: PC Computer - MapleStory - Jr Balrog_74
+  - first:
+      213: -2860998991369659574
+    second: PC Computer - MapleStory - Jr Balrog_75
+  - first:
+      213: -3391819536857073044
+    second: PC Computer - MapleStory - Jr Balrog_76
+  - first:
+      213: -1529865774443301968
+    second: PC Computer - MapleStory - Jr Balrog_77
+  - first:
+      213: -38229902851905966
+    second: PC Computer - MapleStory - Jr Balrog_78
+  - first:
+      213: 2712962942467773380
+    second: PC Computer - MapleStory - Jr Balrog_79
+  - first:
+      213: -6687045914428449692
+    second: PC Computer - MapleStory - Jr Balrog_80
+  - first:
+      213: -8288147792873076732
+    second: PC Computer - MapleStory - Jr Balrog_81
+  - first:
+      213: 2941785079820381412
+    second: PC Computer - MapleStory - Jr Balrog_82
+  - first:
+      213: -5882542202395462762
+    second: PC Computer - MapleStory - Jr Balrog_83
+  - first:
+      213: 3538775169149828793
+    second: PC Computer - MapleStory - Jr Balrog_84
+  - first:
+      213: 9111345818993063410
+    second: PC Computer - MapleStory - Jr Balrog_85
+  - first:
+      213: -6433881298734869374
+    second: PC Computer - MapleStory - Jr Balrog_86
+  - first:
+      213: 2067033257401565684
+    second: PC Computer - MapleStory - Jr Balrog_87
+  - first:
+      213: -4802165309838975902
+    second: PC Computer - MapleStory - Jr Balrog_88
+  - first:
+      213: -4416449702369156190
+    second: PC Computer - MapleStory - Jr Balrog_89
+  - first:
+      213: 8740529897218630183
+    second: PC Computer - MapleStory - Jr Balrog_90
+  - first:
+      213: 2185478886181588773
+    second: PC Computer - MapleStory - Jr Balrog_91
+  - first:
+      213: -3565861233639634964
+    second: PC Computer - MapleStory - Jr Balrog_92
+  - first:
+      213: 6086524147698194782
+    second: PC Computer - MapleStory - Jr Balrog_93
+  - first:
+      213: 4139409313130264971
+    second: PC Computer - MapleStory - Jr Balrog_94
+  - first:
+      213: -1393763366822030923
+    second: PC Computer - MapleStory - Jr Balrog_95
+  - first:
+      213: -3778942947357212209
+    second: PC Computer - MapleStory - Jr Balrog_96
+  - first:
+      213: 1881376799240555257
+    second: PC Computer - MapleStory - Jr Balrog_97
+  - first:
+      213: 8722810411187017308
+    second: PC Computer - MapleStory - Jr Balrog_98
+  - first:
+      213: 6687164084915618049
+    second: PC Computer - MapleStory - Jr Balrog_99
+  - first:
+      213: -3219318141036362787
+    second: PC Computer - MapleStory - Jr Balrog_100
+  - first:
+      213: 3112331628187491743
+    second: PC Computer - MapleStory - Jr Balrog_101
+  - first:
+      213: 4512849932982543505
+    second: PC Computer - MapleStory - Jr Balrog_102
+  - first:
+      213: 410085583433506748
+    second: PC Computer - MapleStory - Jr Balrog_103
+  - first:
+      213: 2874103358046151461
+    second: PC Computer - MapleStory - Jr Balrog_104
+  - first:
+      213: -2872972943579017340
+    second: PC Computer - MapleStory - Jr Balrog_105
+  - first:
+      213: 2168300536137886263
+    second: PC Computer - MapleStory - Jr Balrog_106
+  - first:
+      213: -3372747444434407355
+    second: PC Computer - MapleStory - Jr Balrog_107
+  - first:
+      213: 3399657470786326956
+    second: PC Computer - MapleStory - Jr Balrog_108
+  - first:
+      213: 59235940608231543
+    second: PC Computer - MapleStory - Jr Balrog_109
+  - first:
+      213: 902840559433255137
+    second: PC Computer - MapleStory - Jr Balrog_110
+  - first:
+      213: -1333185595887284769
+    second: PC Computer - MapleStory - Jr Balrog_111
+  - first:
+      213: -3560404514062562637
+    second: PC Computer - MapleStory - Jr Balrog_112
+  - first:
+      213: 4939329727665225186
+    second: PC Computer - MapleStory - Jr Balrog_113
+  - first:
+      213: -8003586822746716788
+    second: PC Computer - MapleStory - Jr Balrog_114
+  - first:
+      213: -1286079468010130047
+    second: PC Computer - MapleStory - Jr Balrog_115
+  - first:
+      213: -9029680628797637480
+    second: PC Computer - MapleStory - Jr Balrog_116
+  - first:
+      213: -7414913407775871936
+    second: PC Computer - MapleStory - Jr Balrog_117
+  - first:
+      213: -7810557027404611773
+    second: PC Computer - MapleStory - Jr Balrog_118
+  - first:
+      213: 1665071087358075664
+    second: PC Computer - MapleStory - Jr Balrog_119
+  - first:
+      213: 1298054117257164352
+    second: PC Computer - MapleStory - Jr Balrog_120
+  - first:
+      213: 4770756049960513982
+    second: PC Computer - MapleStory - Jr Balrog_121
+  - first:
+      213: -5341884375795125399
+    second: PC Computer - MapleStory - Jr Balrog_122
+  - first:
+      213: -45596274148052568
+    second: PC Computer - MapleStory - Jr Balrog_123
+  - first:
+      213: 8188243030993582984
+    second: PC Computer - MapleStory - Jr Balrog_124
+  - first:
+      213: 6136316892559850009
+    second: PC Computer - MapleStory - Jr Balrog_125
+  - first:
+      213: 7371630934892393723
+    second: PC Computer - MapleStory - Jr Balrog_126
+  - first:
+      213: 5118036131374573860
+    second: PC Computer - MapleStory - Jr Balrog_127
+  - first:
+      213: -1906367620136246769
+    second: PC Computer - MapleStory - Jr Balrog_128
+  - first:
+      213: 943473701805204537
+    second: PC Computer - MapleStory - Jr Balrog_129
+  - first:
+      213: 2809259226435310656
+    second: PC Computer - MapleStory - Jr Balrog_130
+  - first:
+      213: -2752126222889167241
+    second: PC Computer - MapleStory - Jr Balrog_131
+  - first:
+      213: 801499967562523732
+    second: PC Computer - MapleStory - Jr Balrog_132
+  - first:
+      213: 2722265262987788865
+    second: PC Computer - MapleStory - Jr Balrog_133
+  - first:
+      213: -1416497596129193405
+    second: PC Computer - MapleStory - Jr Balrog_134
+  - first:
+      213: 396485576108890188
+    second: PC Computer - MapleStory - Jr Balrog_135
+  - first:
+      213: -7010088286738137989
+    second: PC Computer - MapleStory - Jr Balrog_136
+  - first:
+      213: -660161857309097573
+    second: PC Computer - MapleStory - Jr Balrog_137
+  - first:
+      213: -998931063632826237
+    second: PC Computer - MapleStory - Jr Balrog_138
+  - first:
+      213: -3000777016338229266
+    second: PC Computer - MapleStory - Jr Balrog_139
+  - first:
+      213: 7775108036747880098
+    second: PC Computer - MapleStory - Jr Balrog_140
+  - first:
+      213: 1779399596570335034
+    second: PC Computer - MapleStory - Jr Balrog_141
+  - first:
+      213: 2781793853218577001
+    second: PC Computer - MapleStory - Jr Balrog_142
+  - first:
+      213: 6907473282344517236
+    second: PC Computer - MapleStory - Jr Balrog_143
+  - first:
+      213: -3361777706521573375
+    second: PC Computer - MapleStory - Jr Balrog_144
+  - first:
+      213: -8494460776024352457
+    second: PC Computer - MapleStory - Jr Balrog_145
+  - first:
+      213: 1206240235574122537
+    second: PC Computer - MapleStory - Jr Balrog_146
+  - first:
+      213: -7033853034310882447
+    second: PC Computer - MapleStory - Jr Balrog_147
+  - first:
+      213: 4583936422741027344
+    second: PC Computer - MapleStory - Jr Balrog_148
+  - first:
+      213: -4515434677474227817
+    second: PC Computer - MapleStory - Jr Balrog_149
+  - first:
+      213: -2364633988318844953
+    second: PC Computer - MapleStory - Jr Balrog_150
+  - first:
+      213: -126638383831847539
+    second: PC Computer - MapleStory - Jr Balrog_151
+  - first:
+      213: 5891188134005414064
+    second: PC Computer - MapleStory - Jr Balrog_152
+  - first:
+      213: 4167673528545588374
+    second: PC Computer - MapleStory - Jr Balrog_153
+  - first:
+      213: -262185312378668589
+    second: PC Computer - MapleStory - Jr Balrog_154
+  - first:
+      213: 4437933566953827548
+    second: PC Computer - MapleStory - Jr Balrog_155
+  - first:
+      213: 8186272868044728091
+    second: PC Computer - MapleStory - Jr Balrog_156
+  - first:
+      213: -3093224508170860143
+    second: PC Computer - MapleStory - Jr Balrog_157
+  - first:
+      213: -2661457199088851743
+    second: PC Computer - MapleStory - Jr Balrog_158
+  - first:
+      213: 4273609928753669270
+    second: PC Computer - MapleStory - Jr Balrog_159
+  - first:
+      213: -718106861877137894
+    second: PC Computer - MapleStory - Jr Balrog_160
+  - first:
+      213: -7034632083938327617
+    second: PC Computer - MapleStory - Jr Balrog_161
+  - first:
+      213: -8380016175407522288
+    second: PC Computer - MapleStory - Jr Balrog_162
+  - first:
+      213: 9128344321918122676
+    second: PC Computer - MapleStory - Jr Balrog_163
+  - first:
+      213: 1335421593423894061
+    second: PC Computer - MapleStory - Jr Balrog_164
+  - first:
+      213: -7706977641515835515
+    second: PC Computer - MapleStory - Jr Balrog_165
+  - first:
+      213: 7226187499051127227
+    second: PC Computer - MapleStory - Jr Balrog_166
+  - first:
+      213: -1301782956107373030
+    second: PC Computer - MapleStory - Jr Balrog_167
+  - first:
+      213: 2484666998599998116
+    second: PC Computer - MapleStory - Jr Balrog_168
+  - first:
+      213: 2957502202099381496
+    second: PC Computer - MapleStory - Jr Balrog_169
+  - first:
+      213: -8996167952539737715
+    second: PC Computer - MapleStory - Jr Balrog_170
+  - first:
+      213: -712351917229273874
+    second: PC Computer - MapleStory - Jr Balrog_171
+  - first:
+      213: 599219807553104548
+    second: PC Computer - MapleStory - Jr Balrog_172
+  - first:
+      213: -2177106866898633844
+    second: PC Computer - MapleStory - Jr Balrog_173
+  - first:
+      213: -1201872796435507073
+    second: PC Computer - MapleStory - Jr Balrog_174
+  - first:
+      213: 204481038400446392
+    second: PC Computer - MapleStory - Jr Balrog_175
+  - first:
+      213: 454198410026744073
+    second: PC Computer - MapleStory - Jr Balrog_176
+  - first:
+      213: -8379741158457331344
+    second: PC Computer - MapleStory - Jr Balrog_177
+  - first:
+      213: 8206262980500840797
+    second: PC Computer - MapleStory - Jr Balrog_178
+  - first:
+      213: 8356627637239051821
+    second: PC Computer - MapleStory - Jr Balrog_179
+  - first:
+      213: 2675243005598508578
+    second: PC Computer - MapleStory - Jr Balrog_180
+  - first:
+      213: 33295641096465578
+    second: PC Computer - MapleStory - Jr Balrog_181
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2319
+        width: 162
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09065881cd08031e0800000000000000
+      internalID: -2220132933501099888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2319
+        width: 162
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbae44b8e11ac740800000000000000
+      internalID: 5172966813143575490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_11
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2109
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc9532bb5afade70800000000000000
+      internalID: 9140893665440668854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2109
+        width: 173
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771c306c07aa6bfd0800000000000000
+      internalID: -2326484756155088521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2109
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef09e852c6bfdc590800000000000000
+      internalID: -7652183749927464706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2109
+        width: 179
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66019a65db4688ff0800000000000000
+      internalID: -33666232839761818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_15
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2109
+        width: 171
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac7d180796106310800000000000000
+      internalID: 1396140722416876719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1876
+        width: 178
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e25d1d16d8d32d40800000000000000
+      internalID: 5558524779228386021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1876
+        width: 162
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406778f5b9dc60720800000000000000
+      internalID: 2812161084545791492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_23
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1876
+        width: 162
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3444edb5c65736e10800000000000000
+      internalID: 2189722952090403907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_24
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1876
+        width: 248
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955fc0758a1829260800000000000000
+      internalID: 7102882122331649369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_25
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1876
+        width: 245
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367decb3197ae1090800000000000000
+      internalID: -8061822040731101341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1668
+        width: 505
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5931c0697583fa8b0800000000000000
+      internalID: -5138826700975762539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_27
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1668
+        width: 248
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851d1d533e3b347b0800000000000000
+      internalID: -5241147752887234216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_28
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1668
+        width: 162
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a50e0dcc0eef3070800000000000000
+      internalID: 8088445194527966630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1554
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93f6d3e4b894f4d0800000000000000
+      internalID: -3101686340667378787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1553
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d640f9cddbe996e0800000000000000
+      internalID: -1830172435741129001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1528
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c3229903d8a3590800000000000000
+      internalID: -7693681773541966845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1527
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651691bdce95b8260800000000000000
+      internalID: 7100868111302746454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1522
+        width: 116
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f149d3cc6383a30800000000000000
+      internalID: 4195163303729962758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_34
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1522
+        width: 121
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6f9b58f41212310800000000000000
+      internalID: 1378419586381772454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_35
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1522
+        width: 128
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab3b308a0eaa6c90800000000000000
+      internalID: -7175731696137192530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_36
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1522
+        width: 125
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce34920da267a05d0800000000000000
+      internalID: -3095531867610725396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_37
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 848
+        width: 141
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc671daa8bb51420800000000000000
+      internalID: 2600190564160204030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_47
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1365
+        width: 142
+        height: 128
+      alignment: 9
+      pivot: {x: 0.2, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1fa54cfff1829b0800000000000000
+      internalID: -5104794994253041221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1365
+        width: 114
+        height: 116
+      alignment: 9
+      pivot: {x: 0.2, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab1294af1f0fc190800000000000000
+      internalID: -7940110989451453530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_63
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1365
+        width: 141
+        height: 141
+      alignment: 9
+      pivot: {x: 0.2, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7d60397f09d63c0800000000000000
+      internalID: -4364673070854121566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_71
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1367
+        width: 61
+        height: 136
+      alignment: 9
+      pivot: {x: 0.2, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028ecbf761bf92180800000000000000
+      internalID: -9139497894720772064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_72
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1366
+        width: 136
+        height: 134
+      alignment: 9
+      pivot: {x: 0.2, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8d378481007d890800000000000000
+      internalID: -7433472555656947551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_78
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1366
+        width: 59
+        height: 135
+      alignment: 9
+      pivot: {x: 0.2, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256e6bc1b1e287ff0800000000000000
+      internalID: -38229902851905966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_79
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1366
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3179a1c6166a520800000000000000
+      internalID: 2712962942467773380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_80
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1366
+        width: 56
+        height: 133
+      alignment: 9
+      pivot: {x: 0.2, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cd3c99b27d233a0800000000000000
+      internalID: -6687045914428449692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_87
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1157
+        width: 203
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1c656cbc39fac10800000000000000
+      internalID: 2067033257401565684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_88
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1157
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c185af7184b5db0800000000000000
+      internalID: -4802165309838975902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_89
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1157
+        width: 193
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a328e1256e95b2c0800000000000000
+      internalID: -4416449702369156190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_90
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1157
+        width: 195
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722e568d1a99c4970800000000000000
+      internalID: 8740529897218630183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_91
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1053
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f48f2c771645e10800000000000000
+      internalID: 2185478886181588773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_92
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1053
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7c29ac914838ec0800000000000000
+      internalID: -3565861233639634964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_93
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1053
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59536ce67da77450800000000000000
+      internalID: 6086524147698194782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_94
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1035
+        width: 162
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89b219b6d2227930800000000000000
+      internalID: 4139409313130264971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_97
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1026
+        width: 89
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa056f1b3efb1a10800000000000000
+      internalID: 1881376799240555257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_98
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1015
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5691e18ad5ad0970800000000000000
+      internalID: 8722810411187017308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_99
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1020
+        width: 101
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101452c1e449dcc50800000000000000
+      internalID: 6687164084915618049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_100
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 986
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd38e88153fa253d0800000000000000
+      internalID: -3219318141036362787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_101
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 987
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d14514029313b20800000000000000
+      internalID: 3112331628187491743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_102
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 986
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194e11c9a1dd0ae30800000000000000
+      internalID: 4512849932982543505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_103
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 854
+        width: 102
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf10185aaae0b500800000000000000
+      internalID: 410085583433506748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_108
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 847
+        width: 103
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1d83025720e2f20800000000000000
+      internalID: 3399657470786326956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_112
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 842
+        width: 119
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba8a9255f6e69ec0800000000000000
+      internalID: -3560404514062562637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_127
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 663
+        width: 193
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4292236bebae60740800000000000000
+      internalID: 5118036131374573860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_128
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 663
+        width: 178
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02e876ffb83b85e0800000000000000
+      internalID: -1906367620136246769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_129
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 663
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934a5034554e71d00800000000000000
+      internalID: 943473701805204537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_130
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 663
+        width: 204
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0445aa1e16e7cf620800000000000000
+      internalID: 2809259226435310656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_131
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 512
+        width: 245
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77657ab18cb7ec9d0800000000000000
+      internalID: -2752126222889167241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_132
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 512
+        width: 245
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4542d0659ff7f1b00800000000000000
+      internalID: 801499967562523732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_133
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 513
+        width: 245
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142c5c065dd67c520800000000000000
+      internalID: 2722265262987788865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_134
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 514
+        width: 242
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3425685f0f6975ce0800000000000000
+      internalID: -1416497596129193405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_135
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 402
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c485982e789908500800000000000000
+      internalID: 396485576108890188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_136
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 399
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cb8d028d927be90800000000000000
+      internalID: -7010088286738137989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_137
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 400
+        width: 85
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9144d8d942a6d6f0800000000000000
+      internalID: -660161857309097573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_138
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 420
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380ff0d7d751322f0800000000000000
+      internalID: -998931063632826237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_141
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 200
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a375c036182b1b810800000000000000
+      internalID: 1779399596570335034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_146
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 155
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928dd237a1d6db010800000000000000
+      internalID: 1206240235574122537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_147
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 7
+        width: 226
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ba897aeebb26e90800000000000000
+      internalID: -7033853034310882447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog_148
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 4
+        width: 242
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a2476c3e96d9f30800000000000000
+      internalID: 4583936422741027344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2e682284311d79247a10ea25c4fc7b51
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - MapleStory - Jr Balrog_0: 6595408887112478775
+      PC Computer - MapleStory - Jr Balrog_1: 7106477895421671148
+      PC Computer - MapleStory - Jr Balrog_10: -357919896329800663
+      PC Computer - MapleStory - Jr Balrog_100: -3219318141036362787
+      PC Computer - MapleStory - Jr Balrog_101: 3112331628187491743
+      PC Computer - MapleStory - Jr Balrog_102: 4512849932982543505
+      PC Computer - MapleStory - Jr Balrog_103: 410085583433506748
+      PC Computer - MapleStory - Jr Balrog_104: 2874103358046151461
+      PC Computer - MapleStory - Jr Balrog_105: -2872972943579017340
+      PC Computer - MapleStory - Jr Balrog_106: 2168300536137886263
+      PC Computer - MapleStory - Jr Balrog_107: -3372747444434407355
+      PC Computer - MapleStory - Jr Balrog_108: 3399657470786326956
+      PC Computer - MapleStory - Jr Balrog_109: 59235940608231543
+      PC Computer - MapleStory - Jr Balrog_11: 9140893665440668854
+      PC Computer - MapleStory - Jr Balrog_110: 902840559433255137
+      PC Computer - MapleStory - Jr Balrog_111: -1333185595887284769
+      PC Computer - MapleStory - Jr Balrog_112: -3560404514062562637
+      PC Computer - MapleStory - Jr Balrog_113: 4939329727665225186
+      PC Computer - MapleStory - Jr Balrog_114: -8003586822746716788
+      PC Computer - MapleStory - Jr Balrog_115: -1286079468010130047
+      PC Computer - MapleStory - Jr Balrog_116: -9029680628797637480
+      PC Computer - MapleStory - Jr Balrog_117: -7414913407775871936
+      PC Computer - MapleStory - Jr Balrog_118: -7810557027404611773
+      PC Computer - MapleStory - Jr Balrog_119: 1665071087358075664
+      PC Computer - MapleStory - Jr Balrog_12: -2326484756155088521
+      PC Computer - MapleStory - Jr Balrog_120: 1298054117257164352
+      PC Computer - MapleStory - Jr Balrog_121: 4770756049960513982
+      PC Computer - MapleStory - Jr Balrog_122: -5341884375795125399
+      PC Computer - MapleStory - Jr Balrog_123: -45596274148052568
+      PC Computer - MapleStory - Jr Balrog_124: 8188243030993582984
+      PC Computer - MapleStory - Jr Balrog_125: 6136316892559850009
+      PC Computer - MapleStory - Jr Balrog_126: 7371630934892393723
+      PC Computer - MapleStory - Jr Balrog_127: 5118036131374573860
+      PC Computer - MapleStory - Jr Balrog_128: -1906367620136246769
+      PC Computer - MapleStory - Jr Balrog_129: 943473701805204537
+      PC Computer - MapleStory - Jr Balrog_13: -7652183749927464706
+      PC Computer - MapleStory - Jr Balrog_130: 2809259226435310656
+      PC Computer - MapleStory - Jr Balrog_131: -2752126222889167241
+      PC Computer - MapleStory - Jr Balrog_132: 801499967562523732
+      PC Computer - MapleStory - Jr Balrog_133: 2722265262987788865
+      PC Computer - MapleStory - Jr Balrog_134: -1416497596129193405
+      PC Computer - MapleStory - Jr Balrog_135: 396485576108890188
+      PC Computer - MapleStory - Jr Balrog_136: -7010088286738137989
+      PC Computer - MapleStory - Jr Balrog_137: -660161857309097573
+      PC Computer - MapleStory - Jr Balrog_138: -998931063632826237
+      PC Computer - MapleStory - Jr Balrog_139: -3000777016338229266
+      PC Computer - MapleStory - Jr Balrog_14: -33666232839761818
+      PC Computer - MapleStory - Jr Balrog_140: 7775108036747880098
+      PC Computer - MapleStory - Jr Balrog_141: 1779399596570335034
+      PC Computer - MapleStory - Jr Balrog_142: 2781793853218577001
+      PC Computer - MapleStory - Jr Balrog_143: 6907473282344517236
+      PC Computer - MapleStory - Jr Balrog_144: -3361777706521573375
+      PC Computer - MapleStory - Jr Balrog_145: -8494460776024352457
+      PC Computer - MapleStory - Jr Balrog_146: 1206240235574122537
+      PC Computer - MapleStory - Jr Balrog_147: -7033853034310882447
+      PC Computer - MapleStory - Jr Balrog_148: 4583936422741027344
+      PC Computer - MapleStory - Jr Balrog_149: -4515434677474227817
+      PC Computer - MapleStory - Jr Balrog_15: 1396140722416876719
+      PC Computer - MapleStory - Jr Balrog_150: -2364633988318844953
+      PC Computer - MapleStory - Jr Balrog_151: -126638383831847539
+      PC Computer - MapleStory - Jr Balrog_152: 5891188134005414064
+      PC Computer - MapleStory - Jr Balrog_153: 4167673528545588374
+      PC Computer - MapleStory - Jr Balrog_154: -262185312378668589
+      PC Computer - MapleStory - Jr Balrog_155: 4437933566953827548
+      PC Computer - MapleStory - Jr Balrog_156: 8186272868044728091
+      PC Computer - MapleStory - Jr Balrog_157: -3093224508170860143
+      PC Computer - MapleStory - Jr Balrog_158: -2661457199088851743
+      PC Computer - MapleStory - Jr Balrog_159: 4273609928753669270
+      PC Computer - MapleStory - Jr Balrog_16: 8207018050275770376
+      PC Computer - MapleStory - Jr Balrog_160: -718106861877137894
+      PC Computer - MapleStory - Jr Balrog_161: -7034632083938327617
+      PC Computer - MapleStory - Jr Balrog_162: -8380016175407522288
+      PC Computer - MapleStory - Jr Balrog_163: 9128344321918122676
+      PC Computer - MapleStory - Jr Balrog_164: 1335421593423894061
+      PC Computer - MapleStory - Jr Balrog_165: -7706977641515835515
+      PC Computer - MapleStory - Jr Balrog_166: 7226187499051127227
+      PC Computer - MapleStory - Jr Balrog_167: -1301782956107373030
+      PC Computer - MapleStory - Jr Balrog_168: 2484666998599998116
+      PC Computer - MapleStory - Jr Balrog_169: 2957502202099381496
+      PC Computer - MapleStory - Jr Balrog_17: -1195782941358017867
+      PC Computer - MapleStory - Jr Balrog_170: -8996167952539737715
+      PC Computer - MapleStory - Jr Balrog_171: -712351917229273874
+      PC Computer - MapleStory - Jr Balrog_172: 599219807553104548
+      PC Computer - MapleStory - Jr Balrog_173: -2177106866898633844
+      PC Computer - MapleStory - Jr Balrog_174: -1201872796435507073
+      PC Computer - MapleStory - Jr Balrog_175: 204481038400446392
+      PC Computer - MapleStory - Jr Balrog_176: 454198410026744073
+      PC Computer - MapleStory - Jr Balrog_177: -8379741158457331344
+      PC Computer - MapleStory - Jr Balrog_178: 8206262980500840797
+      PC Computer - MapleStory - Jr Balrog_179: 8356627637239051821
+      PC Computer - MapleStory - Jr Balrog_18: 6043289465580932004
+      PC Computer - MapleStory - Jr Balrog_180: 2675243005598508578
+      PC Computer - MapleStory - Jr Balrog_181: 33295641096465578
+      PC Computer - MapleStory - Jr Balrog_19: -5452065632091066057
+      PC Computer - MapleStory - Jr Balrog_2: 8619482744407132344
+      PC Computer - MapleStory - Jr Balrog_20: -3440529113652221523
+      PC Computer - MapleStory - Jr Balrog_21: 5558524779228386021
+      PC Computer - MapleStory - Jr Balrog_22: 2812161084545791492
+      PC Computer - MapleStory - Jr Balrog_23: 2189722952090403907
+      PC Computer - MapleStory - Jr Balrog_24: 7102882122331649369
+      PC Computer - MapleStory - Jr Balrog_25: -8061822040731101341
+      PC Computer - MapleStory - Jr Balrog_26: -5138826700975762539
+      PC Computer - MapleStory - Jr Balrog_27: -5241147752887234216
+      PC Computer - MapleStory - Jr Balrog_28: 8088445194527966630
+      PC Computer - MapleStory - Jr Balrog_29: -3101686340667378787
+      PC Computer - MapleStory - Jr Balrog_3: -3924352393960910784
+      PC Computer - MapleStory - Jr Balrog_30: -1830172435741129001
+      PC Computer - MapleStory - Jr Balrog_31: -7693681773541966845
+      PC Computer - MapleStory - Jr Balrog_32: 7100868111302746454
+      PC Computer - MapleStory - Jr Balrog_33: 4195163303729962758
+      PC Computer - MapleStory - Jr Balrog_34: 1378419586381772454
+      PC Computer - MapleStory - Jr Balrog_35: -7175731696137192530
+      PC Computer - MapleStory - Jr Balrog_36: -3095531867610725396
+      PC Computer - MapleStory - Jr Balrog_37: 2600190564160204030
+      PC Computer - MapleStory - Jr Balrog_38: -2842893066352853717
+      PC Computer - MapleStory - Jr Balrog_39: -6786414497941345660
+      PC Computer - MapleStory - Jr Balrog_4: -8211942908887978958
+      PC Computer - MapleStory - Jr Balrog_40: -2991697938799897618
+      PC Computer - MapleStory - Jr Balrog_41: 8551007870408067136
+      PC Computer - MapleStory - Jr Balrog_42: -4249446534109568607
+      PC Computer - MapleStory - Jr Balrog_43: 2566631299850886807
+      PC Computer - MapleStory - Jr Balrog_44: 160965987162937829
+      PC Computer - MapleStory - Jr Balrog_45: -226841170962566661
+      PC Computer - MapleStory - Jr Balrog_46: 4533879215779791105
+      PC Computer - MapleStory - Jr Balrog_47: -5104794994253041221
+      PC Computer - MapleStory - Jr Balrog_48: 5995469919126840415
+      PC Computer - MapleStory - Jr Balrog_49: -2722433900060923684
+      PC Computer - MapleStory - Jr Balrog_5: -2220132933501099888
+      PC Computer - MapleStory - Jr Balrog_50: -7198171048841469532
+      PC Computer - MapleStory - Jr Balrog_51: 5686077965851215348
+      PC Computer - MapleStory - Jr Balrog_52: 5409347511722874240
+      PC Computer - MapleStory - Jr Balrog_53: 8014813347105035957
+      PC Computer - MapleStory - Jr Balrog_54: 1399686238084247089
+      PC Computer - MapleStory - Jr Balrog_55: -3363148955583182519
+      PC Computer - MapleStory - Jr Balrog_56: -7940110989451453530
+      PC Computer - MapleStory - Jr Balrog_57: 7326814949214361714
+      PC Computer - MapleStory - Jr Balrog_58: -359407276254767019
+      PC Computer - MapleStory - Jr Balrog_59: -7592857580829587400
+      PC Computer - MapleStory - Jr Balrog_6: 5172966813143575490
+      PC Computer - MapleStory - Jr Balrog_60: -7693955041837416910
+      PC Computer - MapleStory - Jr Balrog_61: 2582506557705313952
+      PC Computer - MapleStory - Jr Balrog_62: -7363138742806512131
+      PC Computer - MapleStory - Jr Balrog_63: -4364673070854121566
+      PC Computer - MapleStory - Jr Balrog_64: -108308975571354356
+      PC Computer - MapleStory - Jr Balrog_65: 6962207187778152056
+      PC Computer - MapleStory - Jr Balrog_66: -6504751689457373932
+      PC Computer - MapleStory - Jr Balrog_67: 3487170740978438690
+      PC Computer - MapleStory - Jr Balrog_68: 4893476010509598892
+      PC Computer - MapleStory - Jr Balrog_69: 1077616084890448271
+      PC Computer - MapleStory - Jr Balrog_7: 6094929704571989690
+      PC Computer - MapleStory - Jr Balrog_70: 1065519881322923483
+      PC Computer - MapleStory - Jr Balrog_71: -9139497894720772064
+      PC Computer - MapleStory - Jr Balrog_72: -7433472555656947551
+      PC Computer - MapleStory - Jr Balrog_73: -3811361681947479117
+      PC Computer - MapleStory - Jr Balrog_74: 9181540527864898294
+      PC Computer - MapleStory - Jr Balrog_75: -2860998991369659574
+      PC Computer - MapleStory - Jr Balrog_76: -3391819536857073044
+      PC Computer - MapleStory - Jr Balrog_77: -1529865774443301968
+      PC Computer - MapleStory - Jr Balrog_78: -38229902851905966
+      PC Computer - MapleStory - Jr Balrog_79: 2712962942467773380
+      PC Computer - MapleStory - Jr Balrog_8: 7066030124220914925
+      PC Computer - MapleStory - Jr Balrog_80: -6687045914428449692
+      PC Computer - MapleStory - Jr Balrog_81: -8288147792873076732
+      PC Computer - MapleStory - Jr Balrog_82: 2941785079820381412
+      PC Computer - MapleStory - Jr Balrog_83: -5882542202395462762
+      PC Computer - MapleStory - Jr Balrog_84: 3538775169149828793
+      PC Computer - MapleStory - Jr Balrog_85: 9111345818993063410
+      PC Computer - MapleStory - Jr Balrog_86: -6433881298734869374
+      PC Computer - MapleStory - Jr Balrog_87: 2067033257401565684
+      PC Computer - MapleStory - Jr Balrog_88: -4802165309838975902
+      PC Computer - MapleStory - Jr Balrog_89: -4416449702369156190
+      PC Computer - MapleStory - Jr Balrog_9: -2870853508318991687
+      PC Computer - MapleStory - Jr Balrog_90: 8740529897218630183
+      PC Computer - MapleStory - Jr Balrog_91: 2185478886181588773
+      PC Computer - MapleStory - Jr Balrog_92: -3565861233639634964
+      PC Computer - MapleStory - Jr Balrog_93: 6086524147698194782
+      PC Computer - MapleStory - Jr Balrog_94: 4139409313130264971
+      PC Computer - MapleStory - Jr Balrog_95: -1393763366822030923
+      PC Computer - MapleStory - Jr Balrog_96: -3778942947357212209
+      PC Computer - MapleStory - Jr Balrog_97: 1881376799240555257
+      PC Computer - MapleStory - Jr Balrog_98: 8722810411187017308
+      PC Computer - MapleStory - Jr Balrog_99: 6687164084915618049
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

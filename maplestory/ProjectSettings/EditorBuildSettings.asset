@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: 1239189eeb4a2d84b95858f397adb9ae
+  - enabled: 1
+    path: Assets/Scenes/PrologueScene.unity
+    guid: 07fbf03a4a5e01f41961d2a707b63515
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: ad59603cc89bd0b41be308370e082786
+  - enabled: 1
+    path: Assets/CKW/Scene/Elinia.unity
+    guid: 76ccd243c7f129942bfb31da602b0fff
+  - enabled: 1
+    path: Assets/CKW/Scene/Henesis.unity
+    guid: f25a69580dd2b6148b21ee350d62fcc8
+  - enabled: 1
+    path: Assets/CKW/Scene/Perion.unity
+    guid: 8f68e2876d68d314da8268878a45fce7
+  - enabled: 1
+    path: Assets/CKW/Scene/Kerningcity.unity
+    guid: d157747d13e46634ea4f4500bdcd81b2
+  - enabled: 1
+    path: Assets/CKW/Scene/Boss_Stage.unity
+    guid: 1f71b3143f1516f48b9a33a0d74a4bd7
+  - enabled: 1
+    path: Assets/UI/06_Ending/EndingScene.unity
+    guid: 4025e441e383f4c39bb8a8636ffccda8
+  - enabled: 1
+    path: Assets/Scenes/CreditScene.unity
+    guid: 5b3273b325f084da6a6a19259afaedda
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0

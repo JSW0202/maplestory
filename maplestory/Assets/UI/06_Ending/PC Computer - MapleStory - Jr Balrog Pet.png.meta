@@ -1,0 +1,1846 @@
+fileFormatVersion: 2
+guid: 91d2cde6ce1c94f56afee9f673d1f921
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8191462431622031518
+    second: PC Computer - MapleStory - Jr Balrog Pet_0
+  - first:
+      213: 8233525248405508597
+    second: PC Computer - MapleStory - Jr Balrog Pet_1
+  - first:
+      213: -5678743631501343177
+    second: PC Computer - MapleStory - Jr Balrog Pet_2
+  - first:
+      213: 7552797008551361476
+    second: PC Computer - MapleStory - Jr Balrog Pet_3
+  - first:
+      213: -8337102236371494671
+    second: PC Computer - MapleStory - Jr Balrog Pet_4
+  - first:
+      213: 2684059540989224572
+    second: PC Computer - MapleStory - Jr Balrog Pet_5
+  - first:
+      213: -6098219931843516806
+    second: PC Computer - MapleStory - Jr Balrog Pet_6
+  - first:
+      213: -980605981051606147
+    second: PC Computer - MapleStory - Jr Balrog Pet_7
+  - first:
+      213: -7884992623733184168
+    second: PC Computer - MapleStory - Jr Balrog Pet_8
+  - first:
+      213: -6449122187126517057
+    second: PC Computer - MapleStory - Jr Balrog Pet_9
+  - first:
+      213: -6599964823095888749
+    second: PC Computer - MapleStory - Jr Balrog Pet_10
+  - first:
+      213: 803526753393491343
+    second: PC Computer - MapleStory - Jr Balrog Pet_11
+  - first:
+      213: 6935109607802354248
+    second: PC Computer - MapleStory - Jr Balrog Pet_12
+  - first:
+      213: -4938039564395032558
+    second: PC Computer - MapleStory - Jr Balrog Pet_13
+  - first:
+      213: 246881049203464104
+    second: PC Computer - MapleStory - Jr Balrog Pet_14
+  - first:
+      213: -4418183435669236474
+    second: PC Computer - MapleStory - Jr Balrog Pet_15
+  - first:
+      213: -402656728821982950
+    second: PC Computer - MapleStory - Jr Balrog Pet_16
+  - first:
+      213: 937686689968646145
+    second: PC Computer - MapleStory - Jr Balrog Pet_17
+  - first:
+      213: -2232714707097562411
+    second: PC Computer - MapleStory - Jr Balrog Pet_18
+  - first:
+      213: 1889304334915625562
+    second: PC Computer - MapleStory - Jr Balrog Pet_19
+  - first:
+      213: 1664472730932740897
+    second: PC Computer - MapleStory - Jr Balrog Pet_20
+  - first:
+      213: -1465016523285262859
+    second: PC Computer - MapleStory - Jr Balrog Pet_21
+  - first:
+      213: -2311503945461813630
+    second: PC Computer - MapleStory - Jr Balrog Pet_22
+  - first:
+      213: -8026437187434757411
+    second: PC Computer - MapleStory - Jr Balrog Pet_23
+  - first:
+      213: 209625229154204982
+    second: PC Computer - MapleStory - Jr Balrog Pet_24
+  - first:
+      213: -9089580322371507116
+    second: PC Computer - MapleStory - Jr Balrog Pet_25
+  - first:
+      213: 6940227752779659824
+    second: PC Computer - MapleStory - Jr Balrog Pet_26
+  - first:
+      213: 1755328014932528864
+    second: PC Computer - MapleStory - Jr Balrog Pet_27
+  - first:
+      213: 4187113645572222777
+    second: PC Computer - MapleStory - Jr Balrog Pet_28
+  - first:
+      213: -2319483280826551999
+    second: PC Computer - MapleStory - Jr Balrog Pet_29
+  - first:
+      213: -8123482437507205910
+    second: PC Computer - MapleStory - Jr Balrog Pet_30
+  - first:
+      213: -5406924341065664427
+    second: PC Computer - MapleStory - Jr Balrog Pet_31
+  - first:
+      213: 3637636741817937637
+    second: PC Computer - MapleStory - Jr Balrog Pet_32
+  - first:
+      213: -3882562447096844002
+    second: PC Computer - MapleStory - Jr Balrog Pet_33
+  - first:
+      213: -3367496892126720033
+    second: PC Computer - MapleStory - Jr Balrog Pet_34
+  - first:
+      213: 599995483787371201
+    second: PC Computer - MapleStory - Jr Balrog Pet_35
+  - first:
+      213: 8542068235658262792
+    second: PC Computer - MapleStory - Jr Balrog Pet_36
+  - first:
+      213: -5318008465562307249
+    second: PC Computer - MapleStory - Jr Balrog Pet_37
+  - first:
+      213: -7565225314728876331
+    second: PC Computer - MapleStory - Jr Balrog Pet_38
+  - first:
+      213: -2663966487663509947
+    second: PC Computer - MapleStory - Jr Balrog Pet_39
+  - first:
+      213: -2845928208656874772
+    second: PC Computer - MapleStory - Jr Balrog Pet_40
+  - first:
+      213: 1965247858225443172
+    second: PC Computer - MapleStory - Jr Balrog Pet_41
+  - first:
+      213: -3299149518007391962
+    second: PC Computer - MapleStory - Jr Balrog Pet_42
+  - first:
+      213: 612178485999904185
+    second: PC Computer - MapleStory - Jr Balrog Pet_43
+  - first:
+      213: -5337011444078683924
+    second: PC Computer - MapleStory - Jr Balrog Pet_44
+  - first:
+      213: 8074074090886393781
+    second: PC Computer - MapleStory - Jr Balrog Pet_45
+  - first:
+      213: -5835041872202759840
+    second: PC Computer - MapleStory - Jr Balrog Pet_46
+  - first:
+      213: 6668364557032660762
+    second: PC Computer - MapleStory - Jr Balrog Pet_47
+  - first:
+      213: 5686642177420336585
+    second: PC Computer - MapleStory - Jr Balrog Pet_48
+  - first:
+      213: 4158839541133272655
+    second: PC Computer - MapleStory - Jr Balrog Pet_49
+  - first:
+      213: -275657846646666150
+    second: PC Computer - MapleStory - Jr Balrog Pet_50
+  - first:
+      213: 5128913640610715335
+    second: PC Computer - MapleStory - Jr Balrog Pet_51
+  - first:
+      213: -1908477813453642353
+    second: PC Computer - MapleStory - Jr Balrog Pet_52
+  - first:
+      213: -8664339827306674356
+    second: PC Computer - MapleStory - Jr Balrog Pet_53
+  - first:
+      213: 5844046430162430030
+    second: PC Computer - MapleStory - Jr Balrog Pet_54
+  - first:
+      213: 2647570484775712339
+    second: PC Computer - MapleStory - Jr Balrog Pet_55
+  - first:
+      213: -6708164088136221536
+    second: PC Computer - MapleStory - Jr Balrog Pet_56
+  - first:
+      213: 50091780557315643
+    second: PC Computer - MapleStory - Jr Balrog Pet_57
+  - first:
+      213: 7071967603986339140
+    second: PC Computer - MapleStory - Jr Balrog Pet_58
+  - first:
+      213: -8019811810424068479
+    second: PC Computer - MapleStory - Jr Balrog Pet_59
+  - first:
+      213: 4056867146896846025
+    second: PC Computer - MapleStory - Jr Balrog Pet_60
+  - first:
+      213: 2378423592526483417
+    second: PC Computer - MapleStory - Jr Balrog Pet_61
+  - first:
+      213: 5390224449907683492
+    second: PC Computer - MapleStory - Jr Balrog Pet_62
+  - first:
+      213: 5420026802608304016
+    second: PC Computer - MapleStory - Jr Balrog Pet_63
+  - first:
+      213: -6533703611195025623
+    second: PC Computer - MapleStory - Jr Balrog Pet_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1430
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26716349154125e80800000000000000
+      internalID: -8191462431622031518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1430
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f19b60279b534270800000000000000
+      internalID: 8233525248405508597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1430
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736c9d121cc0131b0800000000000000
+      internalID: -5678743631501343177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1365
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb3653ecdce0d860800000000000000
+      internalID: 7552797008551361476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1365
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f856f810b9ac4c80800000000000000
+      internalID: -8337102236371494671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1365
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7629a88ee1bf3520800000000000000
+      internalID: 2684059540989224572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1365
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76a2402845ce5ba0800000000000000
+      internalID: -6098219931843516806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1365
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7babc24e003462f0800000000000000
+      internalID: -980605981051606147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_8
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1365
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859eec53cf0e29290800000000000000
+      internalID: -7884992623733184168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1298
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2db3b2a8d1086a0800000000000000
+      internalID: -6449122187126517057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1298
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394bb4526f63864a0800000000000000
+      internalID: -6599964823095888749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1298
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dba8f2353b62b00800000000000000
+      internalID: 803526753393491343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1298
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a357bc1757e3060800000000000000
+      internalID: 6935109607802354248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1234
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210d865dd2f887bb0800000000000000
+      internalID: -4938039564395032558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1234
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a75c8791091d6300800000000000000
+      internalID: 246881049203464104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1234
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6059b64e2957fa2c0800000000000000
+      internalID: -4418183435669236474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1182
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a191528a6d9796af0800000000000000
+      internalID: -402656728821982950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1182
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10861329315530d00800000000000000
+      internalID: 937686689968646145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1182
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2d8a6adcdc301e0800000000000000
+      internalID: -2232714707097562411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1182
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52604b5848283a10800000000000000
+      internalID: 1889304334915625562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1182
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12302994125691710800000000000000
+      internalID: 1664472730932740897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1122
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd018beb373babe0800000000000000
+      internalID: -1465016523285262859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1059
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ea5d19863ebefd0800000000000000
+      internalID: -2311503945461813630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1059
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd247f667ed5c9090800000000000000
+      internalID: -8026437187434757411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 985
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d32b7090db8e200800000000000000
+      internalID: 209625229154204982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 985
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c6aaffad25bd180800000000000000
+      internalID: -9089580322371507116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 921
+        width: 87
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a3db8ce54a05060800000000000000
+      internalID: 6940227752779659824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 921
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee485a878d2c5810800000000000000
+      internalID: 1755328014932528864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 921
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fe5862dad9b1a30800000000000000
+      internalID: 4187113645572222777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 859
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14130e7ce3a8fcfd0800000000000000
+      internalID: -2319483280826551999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 794
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4324d53c7934f80800000000000000
+      internalID: -8123482437507205910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_31
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 794
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5583e5b75feb6f4b0800000000000000
+      internalID: -5406924341065664427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_32
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 794
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eea7f9f75b7b7230800000000000000
+      internalID: 3637636741817937637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_33
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 794
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11758a660e5e1ac0800000000000000
+      internalID: -3882562447096844002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_34
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 794
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf0e8a1b6f3441d0800000000000000
+      internalID: -3367496892126720033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_35
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 794
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c22cfda6bc935800800000000000000
+      internalID: 599995483787371201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 717
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809fe817dc58b8670800000000000000
+      internalID: 8542068235658262792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_37
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 653
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4573a10a73a236b0800000000000000
+      internalID: -5318008465562307249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_38
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 588
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6eac598abe20790800000000000000
+      internalID: -7565225314728876331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 588
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e75410890b70bd0800000000000000
+      internalID: -2663966487663509947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_40
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 588
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce24eb26f5b3188d0800000000000000
+      internalID: -2845928208656874772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_41
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 588
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461ff15c386f54b10800000000000000
+      internalID: 1965247858225443172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 588
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629a4463ef01732d0800000000000000
+      internalID: -3299149518007391962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 524
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5292de615ee7800800000000000000
+      internalID: 612178485999904185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_44
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 524
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8de794e502fe5b0800000000000000
+      internalID: -5337011444078683924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_45
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 530
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfe77d7b9fdc0070800000000000000
+      internalID: 8074074090886393781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_46
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 524
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06103d52554c50fa0800000000000000
+      internalID: -5835041872202759840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_47
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 536
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f9cbeeb3aca8c50800000000000000
+      internalID: 6668364557032660762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_48
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 529
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd94e56ee20bee40800000000000000
+      internalID: 5686642177420336585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_49
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 524
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46e817378a27b930800000000000000
+      internalID: 4158839541133272655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_50
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 524
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c831326aaac2cf0800000000000000
+      internalID: -275657846646666150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 454
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6d14038cf8d2740800000000000000
+      internalID: 5128913640610715335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_52
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 454
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85a16b4a89b385e0800000000000000
+      internalID: -1908477813453642353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 390
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47cd1c25d412c780800000000000000
+      internalID: -8664339827306674356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 390
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48a8b0e3493a1150800000000000000
+      internalID: 5844046430162430030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 321
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3567dd6145f0eb420800000000000000
+      internalID: 2647570484775712339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 257
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acbb9f9d40d7e2a0800000000000000
+      internalID: -6708164088136221536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_57
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 180
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e19428536f1b000800000000000000
+      internalID: 50091780557315643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 115
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4451da2211da42260800000000000000
+      internalID: 7071967603986339140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_59
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 115
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186e03236a7e3b090800000000000000
+      internalID: -8019811810424068479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 50
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc2db70d23ec4830800000000000000
+      internalID: 4056867146896846025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_61
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df03fde7abd10120800000000000000
+      internalID: 2378423592526483417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_62
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a07f5c149cedca40800000000000000
+      internalID: 5390224449907683492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_63
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 4
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f609219adc73b40800000000000000
+      internalID: 5420026802608304016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Balrog Pet_64
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 5
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9279803ce2f9355a0800000000000000
+      internalID: -6533703611195025623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - MapleStory - Jr Balrog Pet_0: -8191462431622031518
+      PC Computer - MapleStory - Jr Balrog Pet_1: 8233525248405508597
+      PC Computer - MapleStory - Jr Balrog Pet_10: -6599964823095888749
+      PC Computer - MapleStory - Jr Balrog Pet_11: 803526753393491343
+      PC Computer - MapleStory - Jr Balrog Pet_12: 6935109607802354248
+      PC Computer - MapleStory - Jr Balrog Pet_13: -4938039564395032558
+      PC Computer - MapleStory - Jr Balrog Pet_14: 246881049203464104
+      PC Computer - MapleStory - Jr Balrog Pet_15: -4418183435669236474
+      PC Computer - MapleStory - Jr Balrog Pet_16: -402656728821982950
+      PC Computer - MapleStory - Jr Balrog Pet_17: 937686689968646145
+      PC Computer - MapleStory - Jr Balrog Pet_18: -2232714707097562411
+      PC Computer - MapleStory - Jr Balrog Pet_19: 1889304334915625562
+      PC Computer - MapleStory - Jr Balrog Pet_2: -5678743631501343177
+      PC Computer - MapleStory - Jr Balrog Pet_20: 1664472730932740897
+      PC Computer - MapleStory - Jr Balrog Pet_21: -1465016523285262859
+      PC Computer - MapleStory - Jr Balrog Pet_22: -2311503945461813630
+      PC Computer - MapleStory - Jr Balrog Pet_23: -8026437187434757411
+      PC Computer - MapleStory - Jr Balrog Pet_24: 209625229154204982
+      PC Computer - MapleStory - Jr Balrog Pet_25: -9089580322371507116
+      PC Computer - MapleStory - Jr Balrog Pet_26: 6940227752779659824
+      PC Computer - MapleStory - Jr Balrog Pet_27: 1755328014932528864
+      PC Computer - MapleStory - Jr Balrog Pet_28: 4187113645572222777
+      PC Computer - MapleStory - Jr Balrog Pet_29: -2319483280826551999
+      PC Computer - MapleStory - Jr Balrog Pet_3: 7552797008551361476
+      PC Computer - MapleStory - Jr Balrog Pet_30: -8123482437507205910
+      PC Computer - MapleStory - Jr Balrog Pet_31: -5406924341065664427
+      PC Computer - MapleStory - Jr Balrog Pet_32: 3637636741817937637
+      PC Computer - MapleStory - Jr Balrog Pet_33: -3882562447096844002
+      PC Computer - MapleStory - Jr Balrog Pet_34: -3367496892126720033
+      PC Computer - MapleStory - Jr Balrog Pet_35: 599995483787371201
+      PC Computer - MapleStory - Jr Balrog Pet_36: 8542068235658262792
+      PC Computer - MapleStory - Jr Balrog Pet_37: -5318008465562307249
+      PC Computer - MapleStory - Jr Balrog Pet_38: -7565225314728876331
+      PC Computer - MapleStory - Jr Balrog Pet_39: -2663966487663509947
+      PC Computer - MapleStory - Jr Balrog Pet_4: -8337102236371494671
+      PC Computer - MapleStory - Jr Balrog Pet_40: -2845928208656874772
+      PC Computer - MapleStory - Jr Balrog Pet_41: 1965247858225443172
+      PC Computer - MapleStory - Jr Balrog Pet_42: -3299149518007391962
+      PC Computer - MapleStory - Jr Balrog Pet_43: 612178485999904185
+      PC Computer - MapleStory - Jr Balrog Pet_44: -5337011444078683924
+      PC Computer - MapleStory - Jr Balrog Pet_45: 8074074090886393781
+      PC Computer - MapleStory - Jr Balrog Pet_46: -5835041872202759840
+      PC Computer - MapleStory - Jr Balrog Pet_47: 6668364557032660762
+      PC Computer - MapleStory - Jr Balrog Pet_48: 5686642177420336585
+      PC Computer - MapleStory - Jr Balrog Pet_49: 4158839541133272655
+      PC Computer - MapleStory - Jr Balrog Pet_5: 2684059540989224572
+      PC Computer - MapleStory - Jr Balrog Pet_50: -275657846646666150
+      PC Computer - MapleStory - Jr Balrog Pet_51: 5128913640610715335
+      PC Computer - MapleStory - Jr Balrog Pet_52: -1908477813453642353
+      PC Computer - MapleStory - Jr Balrog Pet_53: -8664339827306674356
+      PC Computer - MapleStory - Jr Balrog Pet_54: 5844046430162430030
+      PC Computer - MapleStory - Jr Balrog Pet_55: 2647570484775712339
+      PC Computer - MapleStory - Jr Balrog Pet_56: -6708164088136221536
+      PC Computer - MapleStory - Jr Balrog Pet_57: 50091780557315643
+      PC Computer - MapleStory - Jr Balrog Pet_58: 7071967603986339140
+      PC Computer - MapleStory - Jr Balrog Pet_59: -8019811810424068479
+      PC Computer - MapleStory - Jr Balrog Pet_6: -6098219931843516806
+      PC Computer - MapleStory - Jr Balrog Pet_60: 4056867146896846025
+      PC Computer - MapleStory - Jr Balrog Pet_61: 2378423592526483417
+      PC Computer - MapleStory - Jr Balrog Pet_62: 5390224449907683492
+      PC Computer - MapleStory - Jr Balrog Pet_63: 5420026802608304016
+      PC Computer - MapleStory - Jr Balrog Pet_64: -6533703611195025623
+      PC Computer - MapleStory - Jr Balrog Pet_7: -980605981051606147
+      PC Computer - MapleStory - Jr Balrog Pet_8: -7884992623733184168
+      PC Computer - MapleStory - Jr Balrog Pet_9: -6449122187126517057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

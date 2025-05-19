@@ -1,0 +1,2496 @@
+fileFormatVersion: 2
+guid: 4ee0afc1414254cdebbe88978c07745e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 419673512614877782
+    second: PC Computer - MapleStory - Name Tags_0
+  - first:
+      213: 1511335350146239423
+    second: PC Computer - MapleStory - Name Tags_1
+  - first:
+      213: -7664777666962786002
+    second: PC Computer - MapleStory - Name Tags_2
+  - first:
+      213: 3362824049158539600
+    second: PC Computer - MapleStory - Name Tags_3
+  - first:
+      213: 2577148473149800880
+    second: PC Computer - MapleStory - Name Tags_4
+  - first:
+      213: 7157378786337594123
+    second: PC Computer - MapleStory - Name Tags_5
+  - first:
+      213: -212304414951985573
+    second: PC Computer - MapleStory - Name Tags_6
+  - first:
+      213: 4395140064396249517
+    second: PC Computer - MapleStory - Name Tags_7
+  - first:
+      213: -401654454561880256
+    second: PC Computer - MapleStory - Name Tags_8
+  - first:
+      213: 6977471057589548683
+    second: PC Computer - MapleStory - Name Tags_9
+  - first:
+      213: 4012766776776495319
+    second: PC Computer - MapleStory - Name Tags_10
+  - first:
+      213: -8372060862079371557
+    second: PC Computer - MapleStory - Name Tags_11
+  - first:
+      213: 6820840821748515039
+    second: PC Computer - MapleStory - Name Tags_12
+  - first:
+      213: 7506030865759959039
+    second: PC Computer - MapleStory - Name Tags_13
+  - first:
+      213: -8830214123461559476
+    second: PC Computer - MapleStory - Name Tags_14
+  - first:
+      213: 2071263671427443265
+    second: PC Computer - MapleStory - Name Tags_15
+  - first:
+      213: 7218614074599440301
+    second: PC Computer - MapleStory - Name Tags_16
+  - first:
+      213: -9019704014394850886
+    second: PC Computer - MapleStory - Name Tags_17
+  - first:
+      213: 4524971075648041819
+    second: PC Computer - MapleStory - Name Tags_18
+  - first:
+      213: 9130179196345033126
+    second: PC Computer - MapleStory - Name Tags_19
+  - first:
+      213: -4264351834762550020
+    second: PC Computer - MapleStory - Name Tags_20
+  - first:
+      213: 6025821324639932935
+    second: PC Computer - MapleStory - Name Tags_21
+  - first:
+      213: 3087368555743042805
+    second: PC Computer - MapleStory - Name Tags_22
+  - first:
+      213: 7748037112999380205
+    second: PC Computer - MapleStory - Name Tags_23
+  - first:
+      213: -175374628432499133
+    second: PC Computer - MapleStory - Name Tags_24
+  - first:
+      213: -2567606737472306919
+    second: PC Computer - MapleStory - Name Tags_25
+  - first:
+      213: 5676992167618239662
+    second: PC Computer - MapleStory - Name Tags_26
+  - first:
+      213: -439070311469253651
+    second: PC Computer - MapleStory - Name Tags_27
+  - first:
+      213: 3856589200288593218
+    second: PC Computer - MapleStory - Name Tags_28
+  - first:
+      213: -7769292879286770006
+    second: PC Computer - MapleStory - Name Tags_29
+  - first:
+      213: 8466696504606845188
+    second: PC Computer - MapleStory - Name Tags_30
+  - first:
+      213: -8719344441962528602
+    second: PC Computer - MapleStory - Name Tags_31
+  - first:
+      213: 1342340339802531192
+    second: PC Computer - MapleStory - Name Tags_32
+  - first:
+      213: 8325052392671589586
+    second: PC Computer - MapleStory - Name Tags_33
+  - first:
+      213: -3897038505781733276
+    second: PC Computer - MapleStory - Name Tags_34
+  - first:
+      213: 7882241449132608644
+    second: PC Computer - MapleStory - Name Tags_35
+  - first:
+      213: -6173725552986904292
+    second: PC Computer - MapleStory - Name Tags_36
+  - first:
+      213: -8817942730101302633
+    second: PC Computer - MapleStory - Name Tags_37
+  - first:
+      213: 7017743561453465887
+    second: PC Computer - MapleStory - Name Tags_38
+  - first:
+      213: 2637657415732867316
+    second: PC Computer - MapleStory - Name Tags_39
+  - first:
+      213: 3187608018749576855
+    second: PC Computer - MapleStory - Name Tags_40
+  - first:
+      213: -955359615451108336
+    second: PC Computer - MapleStory - Name Tags_41
+  - first:
+      213: -3983960530801837554
+    second: PC Computer - MapleStory - Name Tags_42
+  - first:
+      213: 7230300458957944965
+    second: PC Computer - MapleStory - Name Tags_43
+  - first:
+      213: 958285856732668306
+    second: PC Computer - MapleStory - Name Tags_44
+  - first:
+      213: 4065089233902714443
+    second: PC Computer - MapleStory - Name Tags_45
+  - first:
+      213: -2884111933912547827
+    second: PC Computer - MapleStory - Name Tags_46
+  - first:
+      213: 2965238643881822
+    second: PC Computer - MapleStory - Name Tags_47
+  - first:
+      213: 6611456204079512779
+    second: PC Computer - MapleStory - Name Tags_48
+  - first:
+      213: -4799787507521835767
+    second: PC Computer - MapleStory - Name Tags_49
+  - first:
+      213: -4925307171987111201
+    second: PC Computer - MapleStory - Name Tags_50
+  - first:
+      213: 590029899701464030
+    second: PC Computer - MapleStory - Name Tags_51
+  - first:
+      213: 5316199810597276667
+    second: PC Computer - MapleStory - Name Tags_52
+  - first:
+      213: 4580381870719042522
+    second: PC Computer - MapleStory - Name Tags_53
+  - first:
+      213: -7379103534145908860
+    second: PC Computer - MapleStory - Name Tags_54
+  - first:
+      213: -4212792593626837829
+    second: PC Computer - MapleStory - Name Tags_55
+  - first:
+      213: 7560698271238285016
+    second: PC Computer - MapleStory - Name Tags_56
+  - first:
+      213: -1430938732418682303
+    second: PC Computer - MapleStory - Name Tags_57
+  - first:
+      213: 5986931117894940231
+    second: PC Computer - MapleStory - Name Tags_58
+  - first:
+      213: -7305325760624318691
+    second: PC Computer - MapleStory - Name Tags_59
+  - first:
+      213: 6862073271015688513
+    second: PC Computer - MapleStory - Name Tags_60
+  - first:
+      213: 3614784670995815605
+    second: PC Computer - MapleStory - Name Tags_61
+  - first:
+      213: 971678561698912886
+    second: PC Computer - MapleStory - Name Tags_62
+  - first:
+      213: -6454246042946141032
+    second: PC Computer - MapleStory - Name Tags_63
+  - first:
+      213: 4592302503653443060
+    second: PC Computer - MapleStory - Name Tags_64
+  - first:
+      213: 1078183939184688024
+    second: PC Computer - MapleStory - Name Tags_65
+  - first:
+      213: -2042851393051457962
+    second: PC Computer - MapleStory - Name Tags_66
+  - first:
+      213: 1946597826037020448
+    second: PC Computer - MapleStory - Name Tags_67
+  - first:
+      213: 5226769970221030012
+    second: PC Computer - MapleStory - Name Tags_68
+  - first:
+      213: -4757245605473132936
+    second: PC Computer - MapleStory - Name Tags_69
+  - first:
+      213: -3144964213913547745
+    second: PC Computer - MapleStory - Name Tags_70
+  - first:
+      213: 8887292731733656250
+    second: PC Computer - MapleStory - Name Tags_71
+  - first:
+      213: 7310030292961919132
+    second: PC Computer - MapleStory - Name Tags_72
+  - first:
+      213: 7886238877730174686
+    second: PC Computer - MapleStory - Name Tags_73
+  - first:
+      213: 4186353863902317372
+    second: PC Computer - MapleStory - Name Tags_74
+  - first:
+      213: 620109727371071868
+    second: PC Computer - MapleStory - Name Tags_75
+  - first:
+      213: -1768556301272145418
+    second: PC Computer - MapleStory - Name Tags_76
+  - first:
+      213: -8996722767031101383
+    second: PC Computer - MapleStory - Name Tags_77
+  - first:
+      213: -2060958857292930995
+    second: PC Computer - MapleStory - Name Tags_78
+  - first:
+      213: 1011671506385206498
+    second: PC Computer - MapleStory - Name Tags_79
+  - first:
+      213: -4847353081451851824
+    second: PC Computer - MapleStory - Name Tags_80
+  - first:
+      213: -721293343294454743
+    second: PC Computer - MapleStory - Name Tags_81
+  - first:
+      213: 2533628921571744399
+    second: PC Computer - MapleStory - Name Tags_82
+  - first:
+      213: 4577226743139826551
+    second: PC Computer - MapleStory - Name Tags_83
+  - first:
+      213: -6857453603299208232
+    second: PC Computer - MapleStory - Name Tags_84
+  - first:
+      213: 8129580065726012195
+    second: PC Computer - MapleStory - Name Tags_85
+  - first:
+      213: -6679823628350557838
+    second: PC Computer - MapleStory - Name Tags_86
+  - first:
+      213: 912247124390568217
+    second: PC Computer - MapleStory - Name Tags_87
+  - first:
+      213: 2300639436223180411
+    second: PC Computer - MapleStory - Name Tags_88
+  - first:
+      213: -5168561059846339793
+    second: PC Computer - MapleStory - Name Tags_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65adc0116daf2d500800000000000000
+      internalID: 419673512614877782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 64
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb05f95e7759f410800000000000000
+      internalID: 1511335350146239423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 64
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29f556525d31a590800000000000000
+      internalID: -7664777666962786002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 64
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0594c3cd7a62bae20800000000000000
+      internalID: 3362824049158539600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1c88bc1eed3c320800000000000000
+      internalID: 2577148473149800880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 64
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b9192b51e145360800000000000000
+      internalID: 7157378786337594123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 64
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e2a8a624ebd0df0800000000000000
+      internalID: -212304414951985573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da90d642a9caefc30800000000000000
+      internalID: 4395140064396249517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 64
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047c261d6690d6af0800000000000000
+      internalID: -401654454561880256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 62
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86b13a65f4f4d060800000000000000
+      internalID: 6977471057589548683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 63
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d090487f1630b730800000000000000
+      internalID: 4012766776776495319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 62
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6fec5c00770db80800000000000000
+      internalID: -8372060862079371557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 61
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0cdc9c69e78ae50800000000000000
+      internalID: 6820840821748515039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 61
+        width: 4
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff77db2cd47ca2860800000000000000
+      internalID: 7506030865759959039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 61
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bbf680a07c47580800000000000000
+      internalID: -8830214123461559476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 62
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14aaa9bc55b9ebc10800000000000000
+      internalID: 2071263671427443265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 62
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf7227414bad2460800000000000000
+      internalID: 7218614074599440301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 62
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab184d2ccf293d280800000000000000
+      internalID: -9019704014394850886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 62
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b533bee083debce30800000000000000
+      internalID: 4524971075648041819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_19
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 62
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1aec5fa99e4be70800000000000000
+      internalID: 9130179196345033126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_20
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 62
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf461bb899af1d4c0800000000000000
+      internalID: -4264351834762550020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_21
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 61
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702132f819400a350800000000000000
+      internalID: 6025821324639932935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 61
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc56c7085988da20800000000000000
+      internalID: 3087368555743042805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 61
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de40fd214be868b60800000000000000
+      internalID: 7748037112999380205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 62
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e2aa164b1f09df0800000000000000
+      internalID: -175374628432499133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_25
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 63
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911401aa6470e5cd0800000000000000
+      internalID: -2567606737472306919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 62
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac5f876c4ab8ce40800000000000000
+      internalID: 5676992167618239662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_27
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 64
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb7475c0eb18e9f0800000000000000
+      internalID: -439070311469253651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_28
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 64
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2453fcfc17b558530800000000000000
+      internalID: 3856589200288593218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_29
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 64
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6e32e2a4ded2490800000000000000
+      internalID: -7769292879286770006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_30
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 64
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409e12acc9fbf7570800000000000000
+      internalID: 8466696504606845188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_31
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 64
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a00c865d6aaef680800000000000000
+      internalID: -8719344441962528602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_32
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 64
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8756b915d63f0a210800000000000000
+      internalID: 1342340339802531192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 34
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4b4b90b07888370800000000000000
+      internalID: 8325052392671589586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_34
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 34
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4685cda5020fae9c0800000000000000
+      internalID: -3897038505781733276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_35
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 34
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cc86906d8536d60800000000000000
+      internalID: 7882241449132608644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_36
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 34
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19a671c155825aa0800000000000000
+      internalID: -6173725552986904292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 34
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ad2927ecf50a580800000000000000
+      internalID: -8817942730101302633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 34
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11f7396698046160800000000000000
+      internalID: 7017743561453465887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 34
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0bee7d177da9420800000000000000
+      internalID: 2637657415732867316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_40
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 34
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79651c8ba98ac3c20800000000000000
+      internalID: 3187608018749576855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 34
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c6840dd71edb2f0800000000000000
+      internalID: -955359615451108336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 34
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a3162510126b8c0800000000000000
+      internalID: -3983960530801837554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_43
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 34
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588388ba5ff275460800000000000000
+      internalID: 7230300458957944965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_44
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 34
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291e4d3d8e38c4d00800000000000000
+      internalID: 958285856732668306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_45
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 34
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e3907de191a6830800000000000000
+      internalID: 4065089233902714443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_46
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 34
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e7dae0a7399f7d0800000000000000
+      internalID: -2884111933912547827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_47
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 34
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57fa0c6ed88a0000800000000000000
+      internalID: 2965238643881822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_48
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 34
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc363c736c90cb50800000000000000
+      internalID: 6611456204079512779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 34
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dadc831bab36db0800000000000000
+      internalID: -4799787507521835767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_50
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 34
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd24604f83bc5abb0800000000000000
+      internalID: -4925307171987111201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_51
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 32
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edba0925115303800800000000000000
+      internalID: 590029899701464030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_52
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 32
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb46a1bf8fe6c940800000000000000
+      internalID: 5316199810597276667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad309d32b09c09f30800000000000000
+      internalID: 4580381870719042522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_54
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f476e8e68289990800000000000000
+      internalID: -7379103534145908860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_55
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 6
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcc978d4772985c0800000000000000
+      internalID: -4212792593626837829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 6
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d66117f40ffce860800000000000000
+      internalID: 7560698271238285016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_57
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 6
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14236d6edc8442ce0800000000000000
+      internalID: -1430938732418682303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_58
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 6
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7463cd0b12ad51350800000000000000
+      internalID: 5986931117894940231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_59
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 6
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d172a7d0de44e9a90800000000000000
+      internalID: -7305325760624318691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_60
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 6
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149c79d784bfa3f50800000000000000
+      internalID: 6862073271015688513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 6
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc9b3e918b4a2230800000000000000
+      internalID: 3614784670995815605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_62
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 6
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a1de1f0881c7d00800000000000000
+      internalID: 971678561698912886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 6
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89489358b69ed66a0800000000000000
+      internalID: -6454246042946141032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 6
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f58667cbc22bbf30800000000000000
+      internalID: 4592302503653443060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_65
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 6
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b72a9849a76fe00800000000000000
+      internalID: 1078183939184688024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_66
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 6
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65681444b7556a3e0800000000000000
+      internalID: -2042851393051457962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_67
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 6
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027fb75c864b30b10800000000000000
+      internalID: 1946597826037020448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_68
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 7
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a14b56897398840800000000000000
+      internalID: 5226769970221030012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_69
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 7
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e5c78a35edafdb0800000000000000
+      internalID: -4757245605473132936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_70
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 6
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c0e5ec5b7da54d0800000000000000
+      internalID: -3144964213913547745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 6
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab245e117a1065b70800000000000000
+      internalID: 8887292731733656250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_72
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 6
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90075d32d1727560800000000000000
+      internalID: 7310030292961919132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_73
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 6
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed67bf8e97c817d60800000000000000
+      internalID: 7886238877730174686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_74
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 6
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b4bf1b8aae81a30800000000000000
+      internalID: 4186353863902317372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_75
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 6
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7197b5f2821b9800800000000000000
+      internalID: 620109727371071868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 6
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f125690a63d477e0800000000000000
+      internalID: -1768556301272145418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_77
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 6
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93811706f48352380800000000000000
+      internalID: -8996722767031101383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_78
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 6
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d402c56b6d00663e0800000000000000
+      internalID: -2060958857292930995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_79
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 6
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec797fffdd2a0e00800000000000000
+      internalID: 1011671506385206498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_80
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 6
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfca270e0ebabcb0800000000000000
+      internalID: -4847353081451851824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_81
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 6
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924841e96837df5f0800000000000000
+      internalID: -721293343294454743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 6
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a90f69412492320800000000000000
+      internalID: 2533628921571744399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_83
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 6
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b7441c873958f30800000000000000
+      internalID: 4577226743139826551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_84
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 6
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3d0a7b74e65d0a0800000000000000
+      internalID: -6857453603299208232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_85
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 6
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b12b65ff112d070800000000000000
+      internalID: 8129580065726012195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_86
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 6
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27177ed1dcf7c43a0800000000000000
+      internalID: -6679823628350557838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_87
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 6
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911eba42de3f8ac00800000000000000
+      internalID: 912247124390568217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_88
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 6
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e6650c0638def10800000000000000
+      internalID: 2300639436223180411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Name Tags_89
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 6
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2341fba9159548b0800000000000000
+      internalID: -5168561059846339793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 73e3d750556df4a27828c31324947012
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - MapleStory - Name Tags_0: 419673512614877782
+      PC Computer - MapleStory - Name Tags_1: 1511335350146239423
+      PC Computer - MapleStory - Name Tags_10: 4012766776776495319
+      PC Computer - MapleStory - Name Tags_11: -8372060862079371557
+      PC Computer - MapleStory - Name Tags_12: 6820840821748515039
+      PC Computer - MapleStory - Name Tags_13: 7506030865759959039
+      PC Computer - MapleStory - Name Tags_14: -8830214123461559476
+      PC Computer - MapleStory - Name Tags_15: 2071263671427443265
+      PC Computer - MapleStory - Name Tags_16: 7218614074599440301
+      PC Computer - MapleStory - Name Tags_17: -9019704014394850886
+      PC Computer - MapleStory - Name Tags_18: 4524971075648041819
+      PC Computer - MapleStory - Name Tags_19: 9130179196345033126
+      PC Computer - MapleStory - Name Tags_2: -7664777666962786002
+      PC Computer - MapleStory - Name Tags_20: -4264351834762550020
+      PC Computer - MapleStory - Name Tags_21: 6025821324639932935
+      PC Computer - MapleStory - Name Tags_22: 3087368555743042805
+      PC Computer - MapleStory - Name Tags_23: 7748037112999380205
+      PC Computer - MapleStory - Name Tags_24: -175374628432499133
+      PC Computer - MapleStory - Name Tags_25: -2567606737472306919
+      PC Computer - MapleStory - Name Tags_26: 5676992167618239662
+      PC Computer - MapleStory - Name Tags_27: -439070311469253651
+      PC Computer - MapleStory - Name Tags_28: 3856589200288593218
+      PC Computer - MapleStory - Name Tags_29: -7769292879286770006
+      PC Computer - MapleStory - Name Tags_3: 3362824049158539600
+      PC Computer - MapleStory - Name Tags_30: 8466696504606845188
+      PC Computer - MapleStory - Name Tags_31: -8719344441962528602
+      PC Computer - MapleStory - Name Tags_32: 1342340339802531192
+      PC Computer - MapleStory - Name Tags_33: 8325052392671589586
+      PC Computer - MapleStory - Name Tags_34: -3897038505781733276
+      PC Computer - MapleStory - Name Tags_35: 7882241449132608644
+      PC Computer - MapleStory - Name Tags_36: -6173725552986904292
+      PC Computer - MapleStory - Name Tags_37: -8817942730101302633
+      PC Computer - MapleStory - Name Tags_38: 7017743561453465887
+      PC Computer - MapleStory - Name Tags_39: 2637657415732867316
+      PC Computer - MapleStory - Name Tags_4: 2577148473149800880
+      PC Computer - MapleStory - Name Tags_40: 3187608018749576855
+      PC Computer - MapleStory - Name Tags_41: -955359615451108336
+      PC Computer - MapleStory - Name Tags_42: -3983960530801837554
+      PC Computer - MapleStory - Name Tags_43: 7230300458957944965
+      PC Computer - MapleStory - Name Tags_44: 958285856732668306
+      PC Computer - MapleStory - Name Tags_45: 4065089233902714443
+      PC Computer - MapleStory - Name Tags_46: -2884111933912547827
+      PC Computer - MapleStory - Name Tags_47: 2965238643881822
+      PC Computer - MapleStory - Name Tags_48: 6611456204079512779
+      PC Computer - MapleStory - Name Tags_49: -4799787507521835767
+      PC Computer - MapleStory - Name Tags_5: 7157378786337594123
+      PC Computer - MapleStory - Name Tags_50: -4925307171987111201
+      PC Computer - MapleStory - Name Tags_51: 590029899701464030
+      PC Computer - MapleStory - Name Tags_52: 5316199810597276667
+      PC Computer - MapleStory - Name Tags_53: 4580381870719042522
+      PC Computer - MapleStory - Name Tags_54: -7379103534145908860
+      PC Computer - MapleStory - Name Tags_55: -4212792593626837829
+      PC Computer - MapleStory - Name Tags_56: 7560698271238285016
+      PC Computer - MapleStory - Name Tags_57: -1430938732418682303
+      PC Computer - MapleStory - Name Tags_58: 5986931117894940231
+      PC Computer - MapleStory - Name Tags_59: -7305325760624318691
+      PC Computer - MapleStory - Name Tags_6: -212304414951985573
+      PC Computer - MapleStory - Name Tags_60: 6862073271015688513
+      PC Computer - MapleStory - Name Tags_61: 3614784670995815605
+      PC Computer - MapleStory - Name Tags_62: 971678561698912886
+      PC Computer - MapleStory - Name Tags_63: -6454246042946141032
+      PC Computer - MapleStory - Name Tags_64: 4592302503653443060
+      PC Computer - MapleStory - Name Tags_65: 1078183939184688024
+      PC Computer - MapleStory - Name Tags_66: -2042851393051457962
+      PC Computer - MapleStory - Name Tags_67: 1946597826037020448
+      PC Computer - MapleStory - Name Tags_68: 5226769970221030012
+      PC Computer - MapleStory - Name Tags_69: -4757245605473132936
+      PC Computer - MapleStory - Name Tags_7: 4395140064396249517
+      PC Computer - MapleStory - Name Tags_70: -3144964213913547745
+      PC Computer - MapleStory - Name Tags_71: 8887292731733656250
+      PC Computer - MapleStory - Name Tags_72: 7310030292961919132
+      PC Computer - MapleStory - Name Tags_73: 7886238877730174686
+      PC Computer - MapleStory - Name Tags_74: 4186353863902317372
+      PC Computer - MapleStory - Name Tags_75: 620109727371071868
+      PC Computer - MapleStory - Name Tags_76: -1768556301272145418
+      PC Computer - MapleStory - Name Tags_77: -8996722767031101383
+      PC Computer - MapleStory - Name Tags_78: -2060958857292930995
+      PC Computer - MapleStory - Name Tags_79: 1011671506385206498
+      PC Computer - MapleStory - Name Tags_8: -401654454561880256
+      PC Computer - MapleStory - Name Tags_80: -4847353081451851824
+      PC Computer - MapleStory - Name Tags_81: -721293343294454743
+      PC Computer - MapleStory - Name Tags_82: 2533628921571744399
+      PC Computer - MapleStory - Name Tags_83: 4577226743139826551
+      PC Computer - MapleStory - Name Tags_84: -6857453603299208232
+      PC Computer - MapleStory - Name Tags_85: 8129580065726012195
+      PC Computer - MapleStory - Name Tags_86: -6679823628350557838
+      PC Computer - MapleStory - Name Tags_87: 912247124390568217
+      PC Computer - MapleStory - Name Tags_88: 2300639436223180411
+      PC Computer - MapleStory - Name Tags_89: -5168561059846339793
+      PC Computer - MapleStory - Name Tags_9: 6977471057589548683
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1742 @@
+fileFormatVersion: 2
+guid: c75338349560a8448a6f2ce1a27de72b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5748491687865077379
+    second: DarkFlare51_0
+  - first:
+      213: -8305795226839669582
+    second: DarkFlare51_1
+  - first:
+      213: -1178203992828448065
+    second: DarkFlare51_2
+  - first:
+      213: 4392781540933899788
+    second: DarkFlare51_3
+  - first:
+      213: 3389749651737849736
+    second: DarkFlare51_4
+  - first:
+      213: -1765977760863628002
+    second: DarkFlare51_5
+  - first:
+      213: -5449256037774794787
+    second: DarkFlare51_6
+  - first:
+      213: -805415622800964433
+    second: DarkFlare51_7
+  - first:
+      213: 3415416475485554696
+    second: DarkFlare51_8
+  - first:
+      213: 4311601878598719734
+    second: DarkFlare51_9
+  - first:
+      213: -4380069680309329096
+    second: DarkFlare51_10
+  - first:
+      213: 7237027082328296681
+    second: DarkFlare51_11
+  - first:
+      213: 3147649022534229980
+    second: DarkFlare51_12
+  - first:
+      213: -2994158190292549715
+    second: DarkFlare51_13
+  - first:
+      213: -8320657097960651850
+    second: DarkFlare51_14
+  - first:
+      213: 1374971940718504084
+    second: DarkFlare51_15
+  - first:
+      213: 3835803073134373720
+    second: DarkFlare51_16
+  - first:
+      213: -1307111414191517675
+    second: DarkFlare51_17
+  - first:
+      213: 7000081953463519987
+    second: DarkFlare51_18
+  - first:
+      213: 3774393474668673355
+    second: DarkFlare51_19
+  - first:
+      213: 3355596073328329378
+    second: DarkFlare51_20
+  - first:
+      213: 6575551812121471318
+    second: DarkFlare51_21
+  - first:
+      213: -2933432492302897472
+    second: DarkFlare51_22
+  - first:
+      213: 5564573628601537641
+    second: DarkFlare51_23
+  - first:
+      213: 5151095847674705933
+    second: DarkFlare51_24
+  - first:
+      213: 7159623653405193994
+    second: DarkFlare51_25
+  - first:
+      213: -2684183176643935341
+    second: DarkFlare51_26
+  - first:
+      213: 4114072962502218582
+    second: DarkFlare51_27
+  - first:
+      213: 925080647812191296
+    second: DarkFlare51_28
+  - first:
+      213: -1885161356224581850
+    second: DarkFlare51_29
+  - first:
+      213: -1734314321470865548
+    second: DarkFlare51_30
+  - first:
+      213: 3230574364785696767
+    second: DarkFlare51_31
+  - first:
+      213: -4054906390074593583
+    second: DarkFlare51_32
+  - first:
+      213: 9038546706370037240
+    second: DarkFlare51_33
+  - first:
+      213: -1149561407213940816
+    second: DarkFlare51_34
+  - first:
+      213: -5389928727942100743
+    second: DarkFlare51_35
+  - first:
+      213: -3161979432047898279
+    second: DarkFlare51_36
+  - first:
+      213: 1241179949623559569
+    second: DarkFlare51_37
+  - first:
+      213: 4644508132253995148
+    second: DarkFlare51_38
+  - first:
+      213: 172486778723015795
+    second: DarkFlare51_39
+  - first:
+      213: -5815610341630225729
+    second: DarkFlare51_40
+  - first:
+      213: -6323012491393201801
+    second: DarkFlare51_41
+  - first:
+      213: 7120284443143017398
+    second: DarkFlare51_42
+  - first:
+      213: -6769510751269175991
+    second: DarkFlare51_43
+  - first:
+      213: 4847155913327462177
+    second: DarkFlare51_44
+  - first:
+      213: -9092903681195735083
+    second: DarkFlare51_45
+  - first:
+      213: -3890706482520539834
+    second: DarkFlare51_46
+  - first:
+      213: 6541360042848334326
+    second: DarkFlare51_47
+  - first:
+      213: 1228711858502012150
+    second: DarkFlare51_48
+  - first:
+      213: 6772199314725630573
+    second: DarkFlare51_49
+  - first:
+      213: -2253528655752305549
+    second: DarkFlare51_50
+  - first:
+      213: -7661685499100017025
+    second: DarkFlare51_51
+  - first:
+      213: 5701692197592048315
+    second: DarkFlare51_52
+  - first:
+      213: -8912345318639168565
+    second: DarkFlare51_53
+  - first:
+      213: 8323376248256725055
+    second: DarkFlare51_54
+  - first:
+      213: -3240704507315733970
+    second: DarkFlare51_55
+  - first:
+      213: -7136485486796886142
+    second: DarkFlare51_56
+  - first:
+      213: -4567923080361763543
+    second: DarkFlare51_57
+  - first:
+      213: 5582563268257192145
+    second: DarkFlare51_58
+  - first:
+      213: 1736916535123369331
+    second: DarkFlare51_59
+  - first:
+      213: 2845299176872666062
+    second: DarkFlare51_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkFlare51_0
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 427
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ecb79bbbeb6cf40800000000000000
+      internalID: 5748491687865077379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 388
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b426174f33ebbc80800000000000000
+      internalID: -8305795226839669582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 383
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2738ef5bd26afe0800000000000000
+      internalID: -1178203992828448065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 353
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06124b998b46fc30800000000000000
+      internalID: 4392781540933899788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 341
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fa65d395fca0f20800000000000000
+      internalID: 3389749651737849736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 355
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15db72459cfd77e0800000000000000
+      internalID: -1765977760863628002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 341
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfd74a418a5064b0800000000000000
+      internalID: -5449256037774794787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 301
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4066222c692d4f0800000000000000
+      internalID: -805415622800964433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8084555503ff56f20800000000000000
+      internalID: 3415416475485554696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 323
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f898c29013e5db30800000000000000
+      internalID: 4311601878598719734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_10
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 301
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83324b515ddd633c0800000000000000
+      internalID: -4380069680309329096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 290
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec4f08b9c51f6460800000000000000
+      internalID: 7237027082328296681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 302
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf12c9eb12beab20800000000000000
+      internalID: 3147649022534229980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_13
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 300
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf394a5dfc9276d0800000000000000
+      internalID: -2994158190292549715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_14
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 289
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b309324476178c80800000000000000
+      internalID: -8320657097960651850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_15
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 295
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498e7a6f1b1e41310800000000000000
+      internalID: 1374971940718504084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 266
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ba68272928b3530800000000000000
+      internalID: 3835803073134373720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 255
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510914b18153cdde0800000000000000
+      internalID: -1307111414191517675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fac0dad279452160800000000000000
+      internalID: 7000081953463519987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_19
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 255
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49bd2c1ed6516430800000000000000
+      internalID: 3774393474668673355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_20
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 266
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a24e6899d8719e20800000000000000
+      internalID: 3355596073328329378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_21
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 252
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6592dabc88d014b50800000000000000
+      internalID: 6575551812121471318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 219
+        width: 75
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce62b3b0ba5a47d0800000000000000
+      internalID: -2933432492302897472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 236
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9641d4b9b36593d40800000000000000
+      internalID: 5564573628601537641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_24
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 231
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08f3acb16e5c7740800000000000000
+      internalID: 5151095847674705933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_25
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 211
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0773ba87c71c5360800000000000000
+      internalID: 7159623653405193994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 226
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3930f0c4f9ddfbad0800000000000000
+      internalID: -2684183176643935341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_27
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 236
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653dbf5ef8f181930800000000000000
+      internalID: 4114072962502218582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 219
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0441f69a2fb86dc00800000000000000
+      internalID: 925080647812191296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fa0f90cbf86d5e0800000000000000
+      internalID: -1885161356224581850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 185
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f3bdb305a7ee7e0800000000000000
+      internalID: -1734314321470865548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_31
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 220
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffd889b44e45dc20800000000000000
+      internalID: 3230574364785696767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_32
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 192
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de642e3f141ab7c0800000000000000
+      internalID: -4054906390074593583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_33
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 201
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f586f6575e5f6d70800000000000000
+      internalID: 9038546706370037240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 180
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfc383adffeb00f0800000000000000
+      internalID: -1149561407213940816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_35
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 182
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8865601602335b0800000000000000
+      internalID: -5389928727942100743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_36
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 145
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95191bd95746e14d0800000000000000
+      internalID: -3161979432047898279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_37
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 146
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19546af869e893110800000000000000
+      internalID: 1241179949623559569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_38
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 162
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c809963e98b947040800000000000000
+      internalID: 4644508132253995148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_39
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 152
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c9c36bfcbc46200800000000000000
+      internalID: 172486778723015795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 126
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2da0be43dca4fa0800000000000000
+      internalID: -5815610341630225729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_41
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 141
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779862cc3a52048a0800000000000000
+      internalID: -6323012491393201801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_42
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 126
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b39745e9f450d260800000000000000
+      internalID: 7120284443143017398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 87
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94db96f86dddd02a0800000000000000
+      internalID: -6769510751269175991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_44
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 87
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12741d03f9e844340800000000000000
+      internalID: 4847155913327462177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_45
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 117
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d78c7937448fc180800000000000000
+      internalID: -9092903681195735083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_46
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 76
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dbd08611f610ac0800000000000000
+      internalID: -3890706482520539834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_47
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 71
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1b8e52d4497ca50800000000000000
+      internalID: 6541360042848334326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_48
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 89
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc8251ece24d0110800000000000000
+      internalID: 1228711858502012150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_49
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 71
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d627d56656fabfd50800000000000000
+      internalID: 6772199314725630573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_50
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 76
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37468b690abd9b0e0800000000000000
+      internalID: -2253528655752305549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_51
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ec165c1a93ca590800000000000000
+      internalID: -7661685499100017025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_52
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 51
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2271848da702f40800000000000000
+      internalID: 5701692197592048315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_53
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc395eef62df05480800000000000000
+      internalID: -8912345318639168565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_54
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3004414992928370800000000000000
+      internalID: 8323376248256725055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_55
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 33
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a307bab64b603d0800000000000000
+      internalID: -3240704507315733970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_56
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 12
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fadbea24c16fc90800000000000000
+      internalID: -7136485486796886142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_57
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 41
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d9ab9092a7b90c0800000000000000
+      internalID: -4567923080361763543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_58
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d81d9cf6bf397d40800000000000000
+      internalID: 5582563268257192145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_59
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 7
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dd788d264ca1810800000000000000
+      internalID: 1736916535123369331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkFlare51_60
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3e43db6888c7720800000000000000
+      internalID: 2845299176872666062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DarkFlare51_0: 5748491687865077379
+      DarkFlare51_1: -8305795226839669582
+      DarkFlare51_10: -4380069680309329096
+      DarkFlare51_11: 7237027082328296681
+      DarkFlare51_12: 3147649022534229980
+      DarkFlare51_13: -2994158190292549715
+      DarkFlare51_14: -8320657097960651850
+      DarkFlare51_15: 1374971940718504084
+      DarkFlare51_16: 3835803073134373720
+      DarkFlare51_17: -1307111414191517675
+      DarkFlare51_18: 7000081953463519987
+      DarkFlare51_19: 3774393474668673355
+      DarkFlare51_2: -1178203992828448065
+      DarkFlare51_20: 3355596073328329378
+      DarkFlare51_21: 6575551812121471318
+      DarkFlare51_22: -2933432492302897472
+      DarkFlare51_23: 5564573628601537641
+      DarkFlare51_24: 5151095847674705933
+      DarkFlare51_25: 7159623653405193994
+      DarkFlare51_26: -2684183176643935341
+      DarkFlare51_27: 4114072962502218582
+      DarkFlare51_28: 925080647812191296
+      DarkFlare51_29: -1885161356224581850
+      DarkFlare51_3: 4392781540933899788
+      DarkFlare51_30: -1734314321470865548
+      DarkFlare51_31: 3230574364785696767
+      DarkFlare51_32: -4054906390074593583
+      DarkFlare51_33: 9038546706370037240
+      DarkFlare51_34: -1149561407213940816
+      DarkFlare51_35: -5389928727942100743
+      DarkFlare51_36: -3161979432047898279
+      DarkFlare51_37: 1241179949623559569
+      DarkFlare51_38: 4644508132253995148
+      DarkFlare51_39: 172486778723015795
+      DarkFlare51_4: 3389749651737849736
+      DarkFlare51_40: -5815610341630225729
+      DarkFlare51_41: -6323012491393201801
+      DarkFlare51_42: 7120284443143017398
+      DarkFlare51_43: -6769510751269175991
+      DarkFlare51_44: 4847155913327462177
+      DarkFlare51_45: -9092903681195735083
+      DarkFlare51_46: -3890706482520539834
+      DarkFlare51_47: 6541360042848334326
+      DarkFlare51_48: 1228711858502012150
+      DarkFlare51_49: 6772199314725630573
+      DarkFlare51_5: -1765977760863628002
+      DarkFlare51_50: -2253528655752305549
+      DarkFlare51_51: -7661685499100017025
+      DarkFlare51_52: 5701692197592048315
+      DarkFlare51_53: -8912345318639168565
+      DarkFlare51_54: 8323376248256725055
+      DarkFlare51_55: -3240704507315733970
+      DarkFlare51_56: -7136485486796886142
+      DarkFlare51_57: -4567923080361763543
+      DarkFlare51_58: 5582563268257192145
+      DarkFlare51_59: 1736916535123369331
+      DarkFlare51_6: -5449256037774794787
+      DarkFlare51_60: 2845299176872666062
+      DarkFlare51_7: -805415622800964433
+      DarkFlare51_8: 3415416475485554696
+      DarkFlare51_9: 4311601878598719734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

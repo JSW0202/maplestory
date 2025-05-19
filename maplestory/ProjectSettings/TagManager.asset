@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Monster
+  - Portal
+  - Teleport
+  - Confiner
+  - Timeline
+  - StageCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Monster
+  - Ground
+  - Wall
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 874234257
+    locked: 0
+  - name: Portal
+    uniqueID: 4245305251
+    locked: 0
+  - name: Monster
+    uniqueID: 121959567
+    locked: 0
+  - name: Player
+    uniqueID: 3643928963
+    locked: 0
+  - name: Skill
+    uniqueID: 964976095
+    locked: 0
+  - name: UI
+    uniqueID: 1284380403
+    locked: 0
+  m_RenderingLayers:
+  - Default

@@ -1,0 +1,589 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DarkFlare
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: 8297208426638206634, guid: 81af2a8596aaae043b56fcf17c423157, type: 3}
+    - time: 0.083333336
+      value: {fileID: 5603523552105486012, guid: 99c661ed4b23d0045a434087fd83a079, type: 3}
+    - time: 0.16666667
+      value: {fileID: -4562792578344663749, guid: 0891596196e657d44b4250f53b8310c8, type: 3}
+    - time: 0.25
+      value: {fileID: 1349959640155717459, guid: 571eae2c9c393334bbf75d7c21e4b813, type: 3}
+    - time: 0.33333334
+      value: {fileID: 5295327061862022099, guid: e97e0f68da5caa046a18a27abb9f0107, type: 3}
+    - time: 0.41666666
+      value: {fileID: -2601299623746769364, guid: 93e08d7095e94084c85bebbe0367a590, type: 3}
+    - time: 0.5
+      value: {fileID: -2335028194227959890, guid: 4ea65f6536b99ab4686bef858eca2725, type: 3}
+    - time: 0.5833333
+      value: {fileID: 9011602190494628470, guid: eefcad791d4c22442a701c2fe69d0cd3, type: 3}
+    - time: 0.6666667
+      value: {fileID: 2628496821775010510, guid: ff8b571c8bda9e140a3dcb2daecea42f, type: 3}
+    - time: 0.75
+      value: {fileID: 6396047110104366854, guid: 9a97779f8cfa1954a9753ea3be393d22, type: 3}
+    - time: 0.8333333
+      value: {fileID: -6501496865010749428, guid: 155ad3df2d3a6a44bbffed3d02a678ba, type: 3}
+    - time: 0.9166667
+      value: {fileID: 3895048027584031642, guid: 206608c12991e8e469d8cfa97ee6e265, type: 3}
+    - time: 1
+      value: {fileID: -5798286977643764232, guid: cdcf4073794d9734cb2918cac8e845ac, type: 3}
+    - time: 1.0833334
+      value: {fileID: 67562626935061547, guid: 9e8343e0ddabe344ba555ef61ae5ae0c, type: 3}
+    - time: 1.1666666
+      value: {fileID: 7445655416007492980, guid: bcae647a2c190774581cd7356746c275, type: 3}
+    - time: 1.25
+      value: {fileID: 3523053206869254779, guid: df81d2914d6de2048a4d1f5c46d79e3a, type: 3}
+    - time: 1.3333334
+      value: {fileID: -5190741843743735614, guid: 12cdfa15a4b0961428a2517184c18112, type: 3}
+    - time: 1.4166666
+      value: {fileID: 5655672510898314413, guid: c54c1a8269b6cd745ac923844651b3a0, type: 3}
+    - time: 1.5
+      value: {fileID: 7135339620781142240, guid: 9d6157e893a9a2f49935c6f671cbf2f6, type: 3}
+    - time: 1.5833334
+      value: {fileID: 7996202640808034594, guid: 8e982bef27f61844f91bdb855d49d6e0, type: 3}
+    - time: 1.6666666
+      value: {fileID: 8216960462917910449, guid: 5b66a9ed6abce5e4ba47164cae91f4dd, type: 3}
+    - time: 1.75
+      value: {fileID: 4569935509303969614, guid: f1a516f0930c215478c3224d2a84d024, type: 3}
+    - time: 1.8333334
+      value: {fileID: 4578056888399041263, guid: adfc2402b8a6ccf4481d85415a893130, type: 3}
+    - time: 1.9166666
+      value: {fileID: -1459926032474119607, guid: 134d9b9265bed104dbc01794fce49e48, type: 3}
+    - time: 2
+      value: {fileID: -520041396523289285, guid: 2b95b542e07574e46984f0457e6a0277, type: 3}
+    - time: 2.0833333
+      value: {fileID: -4383873537639852653, guid: 602ac3a3cec4fe74a9d33d17cec31aa3, type: 3}
+    - time: 2.1666667
+      value: {fileID: 3808047748873272319, guid: 86122487133a0014580b1a63b8966c24, type: 3}
+    - time: 2.25
+      value: {fileID: -2077730655026352994, guid: c29e4d8cd0240404884f219b89b6b4b9, type: 3}
+    - time: 2.3333333
+      value: {fileID: 8896086886662720585, guid: 8a058df28c3f82548a75712c6805335e, type: 3}
+    - time: 2.4166667
+      value: {fileID: -939872825401441683, guid: 486af76bb4fc39146a362d7875121123, type: 3}
+    - time: 2.5
+      value: {fileID: -882004673831583157, guid: 823d390b58fca77469f58848cca61266, type: 3}
+    - time: 2.5833333
+      value: {fileID: 44540431214389497, guid: d03beeb9cab2c4948a24acb89c113e6d, type: 3}
+    - time: 2.6666667
+      value: {fileID: -7578967851801321847, guid: 61d0fbcbf23c2be4a87b06998f6e26c8, type: 3}
+    - time: 2.75
+      value: {fileID: 5416227458377294219, guid: 97cdf49d3e8e9bd41b000ca45ce25dad, type: 3}
+    - time: 2.8333333
+      value: {fileID: -1596271245017605943, guid: 7051162c653d37e4f81b8686bf3c3062, type: 3}
+    - time: 2.9166667
+      value: {fileID: 7259784550989446177, guid: 77b31add1d6f3714cb971334ca0c8e38, type: 3}
+    - time: 3
+      value: {fileID: 2257393083667744360, guid: 2e608ab0184d7ac4c9c4dddda505376b, type: 3}
+    - time: 3.0833333
+      value: {fileID: -5607933672641197825, guid: e970dee9968515a43b9bbad68c7f8fa4, type: 3}
+    - time: 3.1666667
+      value: {fileID: -6535615732419006382, guid: f3237f2f41150cb4980d37accadc90b4, type: 3}
+    - time: 3.25
+      value: {fileID: 4193031353367032668, guid: df6ddb9dda6b12745a511fe00d3a28c2, type: 3}
+    - time: 3.3333333
+      value: {fileID: -4160891546766304424, guid: 7b6cf07df5196fa49ae92acbd929502d, type: 3}
+    - time: 3.4166667
+      value: {fileID: 4858541000290764768, guid: a5fbacbb77c305141a762af80863c89d, type: 3}
+    - time: 3.5
+      value: {fileID: -5454331299928726931, guid: 96d7da2ae07d22345b3189dbc3827010, type: 3}
+    - time: 3.5833333
+      value: {fileID: -8159561531424458604, guid: 46f453a2a3caceb479bfa730b5154788, type: 3}
+    - time: 3.6666667
+      value: {fileID: -5166144111395306045, guid: 64dfe65042eb3be488bef30f34a7a8bc, type: 3}
+    - time: 3.75
+      value: {fileID: 3088906880072792799, guid: 8d0cf62d9c2f10740b1ffbe0a6a51876, type: 3}
+    - time: 3.8333333
+      value: {fileID: -8828126327249237026, guid: 52470e11eaf6cbb43bd2c7df6bef48f0, type: 3}
+    - time: 3.9166667
+      value: {fileID: 1789194048096365553, guid: 69a58a31569e2634695620b16f8ecde4, type: 3}
+    - time: 4
+      value: {fileID: -1375910010378611562, guid: 3fc46420bbe7c1c468a18e2ee601853b, type: 3}
+    - time: 4.0833335
+      value: {fileID: 231143392887667868, guid: f8f2168201c84664a80f0c51807e0216, type: 3}
+    - time: 4.1666665
+      value: {fileID: 440298942510008076, guid: 52dd325146390654ba286b3f140e0f49, type: 3}
+    - time: 4.25
+      value: {fileID: 5748491687865077379, guid: c75338349560a8448a6f2ce1a27de72b, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+    flags: 2
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    pptrCurveMapping:
+    - {fileID: 8297208426638206634, guid: 81af2a8596aaae043b56fcf17c423157, type: 3}
+    - {fileID: 5603523552105486012, guid: 99c661ed4b23d0045a434087fd83a079, type: 3}
+    - {fileID: -4562792578344663749, guid: 0891596196e657d44b4250f53b8310c8, type: 3}
+    - {fileID: 1349959640155717459, guid: 571eae2c9c393334bbf75d7c21e4b813, type: 3}
+    - {fileID: 5295327061862022099, guid: e97e0f68da5caa046a18a27abb9f0107, type: 3}
+    - {fileID: -2601299623746769364, guid: 93e08d7095e94084c85bebbe0367a590, type: 3}
+    - {fileID: -2335028194227959890, guid: 4ea65f6536b99ab4686bef858eca2725, type: 3}
+    - {fileID: 9011602190494628470, guid: eefcad791d4c22442a701c2fe69d0cd3, type: 3}
+    - {fileID: 2628496821775010510, guid: ff8b571c8bda9e140a3dcb2daecea42f, type: 3}
+    - {fileID: 6396047110104366854, guid: 9a97779f8cfa1954a9753ea3be393d22, type: 3}
+    - {fileID: -6501496865010749428, guid: 155ad3df2d3a6a44bbffed3d02a678ba, type: 3}
+    - {fileID: 3895048027584031642, guid: 206608c12991e8e469d8cfa97ee6e265, type: 3}
+    - {fileID: -5798286977643764232, guid: cdcf4073794d9734cb2918cac8e845ac, type: 3}
+    - {fileID: 67562626935061547, guid: 9e8343e0ddabe344ba555ef61ae5ae0c, type: 3}
+    - {fileID: 7445655416007492980, guid: bcae647a2c190774581cd7356746c275, type: 3}
+    - {fileID: 3523053206869254779, guid: df81d2914d6de2048a4d1f5c46d79e3a, type: 3}
+    - {fileID: -5190741843743735614, guid: 12cdfa15a4b0961428a2517184c18112, type: 3}
+    - {fileID: 5655672510898314413, guid: c54c1a8269b6cd745ac923844651b3a0, type: 3}
+    - {fileID: 7135339620781142240, guid: 9d6157e893a9a2f49935c6f671cbf2f6, type: 3}
+    - {fileID: 7996202640808034594, guid: 8e982bef27f61844f91bdb855d49d6e0, type: 3}
+    - {fileID: 8216960462917910449, guid: 5b66a9ed6abce5e4ba47164cae91f4dd, type: 3}
+    - {fileID: 4569935509303969614, guid: f1a516f0930c215478c3224d2a84d024, type: 3}
+    - {fileID: 4578056888399041263, guid: adfc2402b8a6ccf4481d85415a893130, type: 3}
+    - {fileID: -1459926032474119607, guid: 134d9b9265bed104dbc01794fce49e48, type: 3}
+    - {fileID: -520041396523289285, guid: 2b95b542e07574e46984f0457e6a0277, type: 3}
+    - {fileID: -4383873537639852653, guid: 602ac3a3cec4fe74a9d33d17cec31aa3, type: 3}
+    - {fileID: 3808047748873272319, guid: 86122487133a0014580b1a63b8966c24, type: 3}
+    - {fileID: -2077730655026352994, guid: c29e4d8cd0240404884f219b89b6b4b9, type: 3}
+    - {fileID: 8896086886662720585, guid: 8a058df28c3f82548a75712c6805335e, type: 3}
+    - {fileID: -939872825401441683, guid: 486af76bb4fc39146a362d7875121123, type: 3}
+    - {fileID: -882004673831583157, guid: 823d390b58fca77469f58848cca61266, type: 3}
+    - {fileID: 44540431214389497, guid: d03beeb9cab2c4948a24acb89c113e6d, type: 3}
+    - {fileID: -7578967851801321847, guid: 61d0fbcbf23c2be4a87b06998f6e26c8, type: 3}
+    - {fileID: 5416227458377294219, guid: 97cdf49d3e8e9bd41b000ca45ce25dad, type: 3}
+    - {fileID: -1596271245017605943, guid: 7051162c653d37e4f81b8686bf3c3062, type: 3}
+    - {fileID: 7259784550989446177, guid: 77b31add1d6f3714cb971334ca0c8e38, type: 3}
+    - {fileID: 2257393083667744360, guid: 2e608ab0184d7ac4c9c4dddda505376b, type: 3}
+    - {fileID: -5607933672641197825, guid: e970dee9968515a43b9bbad68c7f8fa4, type: 3}
+    - {fileID: -6535615732419006382, guid: f3237f2f41150cb4980d37accadc90b4, type: 3}
+    - {fileID: 4193031353367032668, guid: df6ddb9dda6b12745a511fe00d3a28c2, type: 3}
+    - {fileID: -4160891546766304424, guid: 7b6cf07df5196fa49ae92acbd929502d, type: 3}
+    - {fileID: 4858541000290764768, guid: a5fbacbb77c305141a762af80863c89d, type: 3}
+    - {fileID: -5454331299928726931, guid: 96d7da2ae07d22345b3189dbc3827010, type: 3}
+    - {fileID: -8159561531424458604, guid: 46f453a2a3caceb479bfa730b5154788, type: 3}
+    - {fileID: -5166144111395306045, guid: 64dfe65042eb3be488bef30f34a7a8bc, type: 3}
+    - {fileID: 3088906880072792799, guid: 8d0cf62d9c2f10740b1ffbe0a6a51876, type: 3}
+    - {fileID: -8828126327249237026, guid: 52470e11eaf6cbb43bd2c7df6bef48f0, type: 3}
+    - {fileID: 1789194048096365553, guid: 69a58a31569e2634695620b16f8ecde4, type: 3}
+    - {fileID: -1375910010378611562, guid: 3fc46420bbe7c1c468a18e2ee601853b, type: 3}
+    - {fileID: 231143392887667868, guid: f8f2168201c84664a80f0c51807e0216, type: 3}
+    - {fileID: 440298942510008076, guid: 52dd325146390654ba286b3f140e0f49, type: 3}
+    - {fileID: 5748491687865077379, guid: c75338349560a8448a6f2ce1a27de72b, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 4.3333335
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.083333336
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.16666667
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.25
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.33333334
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.41666666
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.5
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.5833333
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.6666667
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.75
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.8333333
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.9166667
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.0833334
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.1666666
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.25
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.3333334
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.4166666
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.5
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.5833334
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.6666666
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.75
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.8333334
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.9166666
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.0833333
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.1666667
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.25
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.3333333
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.4166667
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.5
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.5833333
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.6666667
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.75
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.8333333
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.9166667
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.0833333
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.1666667
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.25
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.3333333
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.4166667
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.5
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.5833333
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.6666667
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.75
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.8333333
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.9166667
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 4
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 4.0833335
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 4.1666665
+    functionName: UpdateCenterCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 4.25
+    functionName: OnAnimationEnd
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
